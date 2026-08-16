@@ -1,6 +1,6 @@
 {
   "crawled_at": "2026-08-16",
-  "count": 176,
+  "count": 161,
   "jobs": [
     {
       "id": "251963",
@@ -327,18 +327,6 @@
       "source": "academicpositions"
     },
     {
-      "id": "251542",
-      "title": "PhD Position: De-escalation",
-      "employer": "Radboud University",
-      "country": "Netherlands",
-      "city": "Nijmegen",
-      "posted_date": "2026-08-02",
-      "deadline": null,
-      "description": "PhD: study staff stress/sleep/recovery and aggression de-escalation in residential care using wearables, video & interviews; ethical monitoring. Dutch required.",
-      "url": "https://academicpositions.com/ad/radboud-university/2026/phd-position-de-escalation/251542",
-      "source": "academicpositions"
-    },
-    {
       "id": "251547",
       "title": "PhD in bioinspired physical control of soft robots",
       "employer": "Eindhoven University of Technology",
@@ -603,18 +591,6 @@
       "source": "academicpositions"
     },
     {
-      "id": "251286",
-      "title": "Postdoc position on Multimodal Conversational AI for Cultural Heritage",
-      "employer": "University of Twente",
-      "country": "Netherlands",
-      "city": "Enschede",
-      "posted_date": "2026-07-17",
-      "deadline": null,
-      "description": "Postdoc to build/evaluate multimodal museum dialogue agent (gaze, speech, dialogue) inferring visitor states; design adaptive strategies balancing personalization & diverse views; VR studies.",
-      "url": "https://academicpositions.com/ad/university-of-twente/2026/postdoc-position-on-multimodal-conversational-ai-for-cultural-heritage/251286",
-      "source": "academicpositions"
-    },
-    {
       "id": "251269",
       "title": "PhD Fellow Governance of Cybercrime",
       "employer": "Leiden University",
@@ -720,18 +696,6 @@
       "deadline": null,
       "description": "Postdoc developing multi-aperture abdominal ultrasound: distributed sensing, adaptive acquisition, probe localisation, reconstruction & AI. Integrate tech and coach PhDs. 2-year full-time.",
       "url": "https://academicpositions.com/ad/eindhoven-university-of-technology/2026/postdoc-in-computational-and-multi-aperture-ultrasound-imaging/251223",
-      "source": "academicpositions"
-    },
-    {
-      "id": "251128",
-      "title": "PhD position on viscosity sensing of a liquid using ultrasound",
-      "employer": "University of Twente",
-      "country": "Netherlands",
-      "city": "Enschede",
-      "posted_date": "2026-07-17",
-      "deadline": null,
-      "description": "4-year PhD researching ultrasound-based sensing of liquid viscosity; design experiments, generate/analyse signals, link to fluid properties. MSc EE/ME/physics/materials; loves lab work.",
-      "url": "https://academicpositions.com/ad/university-of-twente/2026/phd-position-on-viscosity-sensing-of-a-liquid-using-ultrasound/251128",
       "source": "academicpositions"
     },
     {
@@ -1155,18 +1119,6 @@
       "source": "academicpositions"
     },
     {
-      "id": "251034",
-      "title": "Postdoc in Physics-informed Battery Ageing Diagnosis and Prognosis",
-      "employer": "Chalmers University of Technology",
-      "country": "Sweden",
-      "city": "Gothenburg",
-      "posted_date": "2026-07-17",
-      "deadline": null,
-      "description": "Research postdoc developing physics-informed diagnostic & prognostic models for lithium-ion battery ageing using lab and real-world data; interdisciplinary control/electrochemistry/ML.",
-      "url": "https://academicpositions.com/ad/chalmers-university-of-technology/2026/postdoc-in-physics-informed-battery-ageing-diagnosis-and-prognosis/251034",
-      "source": "academicpositions"
-    },
-    {
       "id": "251026",
       "title": "Postdocs in Data-Driven Product Realization",
       "employer": "Chalmers University of Technology",
@@ -1311,18 +1263,6 @@
       "source": "academicpositions"
     },
     {
-      "id": "250840",
-      "title": "Doctoral students in software engineering for continuous compliance of software-intensive systems",
-      "employer": "University of Gothenburg",
-      "country": "Sweden",
-      "city": "Gothenburg",
-      "posted_date": "2026-07-17",
-      "deadline": null,
-      "description": "3 fully funded PhD roles in software/AI engineering on continuous compliance: explainable AI, traceability, automated evidence via CI/CD & data. 5-year full-time in Gothenburg; MSc required.",
-      "url": "https://academicpositions.com/ad/university-of-gothenburg/2026/doctoral-students-in-software-engineering-for-continuous-compliance-of-software-intensive-systems/250840",
-      "source": "academicpositions"
-    },
-    {
       "id": "250826",
       "title": "Doctoral student in multiscale modelling of effects of defects in composites",
       "employer": "Chalmers University of Technology",
@@ -1440,18 +1380,6 @@
       "deadline": null,
       "description": "Fully funded PhD researching honey/hive yeasts to improve honeybee health via probiotic/pathogen-suppressing effects; work with 2,500+ isolates in an interdisciplinary lab in Gothenburg.",
       "url": "https://academicpositions.com/ad/chalmers-university-of-technology/2026/doctoral-student-in-yeast-biotechnology-and-microbial-ecology/250606",
-      "source": "academicpositions"
-    },
-    {
-      "id": "250532",
-      "title": "Postdoc in Finite Element Modelling and Testing of Wooden Veneer Structures",
-      "employer": "Chalmers University of Technology",
-      "country": "Sweden",
-      "city": "Gothenburg",
-      "posted_date": "2026-07-17",
-      "deadline": null,
-      "description": "2-year postdoc (extendable) developing wood-veneer wind turbine blades: fabricate prototypes, run FE simulations & structural tests, link mechanics to aerodynamics. PhD required.",
-      "url": "https://academicpositions.com/ad/chalmers-university-of-technology/2026/postdoc-in-finite-element-modelling-and-testing-of-wooden-veneer-structures/250532",
       "source": "academicpositions"
     },
     {
@@ -1575,30 +1503,6 @@
       "source": "academicpositions"
     },
     {
-      "id": "250387",
-      "title": "Postdoc in Nonlinear Power-Efficient Transmit Array Architecture",
-      "employer": "Chalmers University of Technology",
-      "country": "Sweden",
-      "city": "Gothenburg",
-      "posted_date": "2026-07-17",
-      "deadline": null,
-      "description": "Postdoc: nonlinear multi-antenna transmitter research using mutual coupling for load modulation. Design microwave PAs/arrays, develop feeding theory, publish & co-supervise. PhD required.",
-      "url": "https://academicpositions.com/ad/chalmers-university-of-technology/2026/postdoc-in-nonlinear-power-efficient-transmit-array-architecture/250387",
-      "source": "academicpositions"
-    },
-    {
-      "id": "250386",
-      "title": "Doctoral student in Nonlinear Power-Efficient Transmit Array Architecture",
-      "employer": "Chalmers University of Technology",
-      "country": "Sweden",
-      "city": "Gothenburg",
-      "posted_date": "2026-07-17",
-      "deadline": null,
-      "description": "Fully funded PhD: develop nonlinear multi-antenna transmitters using mutual coupling. Design PAs/antenna arrays, theory & measurements. Requires MSc EE + circuit design.",
-      "url": "https://academicpositions.com/ad/chalmers-university-of-technology/2026/doctoral-student-in-nonlinear-power-efficient-transmit-array-architecture/250386",
-      "source": "academicpositions"
-    },
-    {
       "id": "250384",
       "title": "Three multidisciplinary postdoctoral scholarships (2 years)",
       "employer": "Umeå University",
@@ -1695,54 +1599,6 @@
       "source": "academicpositions"
     },
     {
-      "id": "250147",
-      "title": "3 Doctoral students at the Department of Physics and Astronomy",
-      "employer": "Chalmers University of Technology",
-      "country": "Sweden",
-      "city": "Gothenburg",
-      "posted_date": "2026-07-17",
-      "deadline": null,
-      "description": "3 fully funded PhD positions in Physics/Astronomy: flexible x‑ray detectors, Zr alloy microscopy, or PEM fuel cell modeling. 4 yrs (5 with teaching). Gothenburg. Salary 35,725 SEK/mo.",
-      "url": "https://academicpositions.com/ad/chalmers-university-of-technology/2026/3-doctoral-students-at-the-department-of-physics-and-astronomy/250147",
-      "source": "academicpositions"
-    },
-    {
-      "id": "250143",
-      "title": "Two Postdocs in Programming Languages",
-      "employer": "Chalmers University of Technology",
-      "country": "Sweden",
-      "city": "Gothenburg",
-      "posted_date": "2026-07-17",
-      "deadline": null,
-      "description": "2 postdoc roles in functional programming & formal methods: PL design/semantics, type systems, theorem proving, verified array processing. 2-year full-time + 1-year option; teaching 20%.",
-      "url": "https://academicpositions.com/ad/chalmers-university-of-technology/2026/two-postdocs-in-programming-languages/250143",
-      "source": "academicpositions"
-    },
-    {
-      "id": "250127",
-      "title": "Doctoral student in developing PEM fuel cells by multiscale modeling",
-      "employer": "Chalmers University of Technology",
-      "country": "Sweden",
-      "city": "Gothenburg",
-      "posted_date": "2026-07-17",
-      "deadline": null,
-      "description": "Fully funded PhD researching PEM fuel cell degradation via DFT/Monte Carlo kinetics. Requires MSc Physics/Chem/MatSci, QM/thermo/stat mech, strong coding (Python). 35,725 SEK/mo.",
-      "url": "https://academicpositions.com/ad/chalmers-university-of-technology/2026/doctoral-student-in-developing-pem-fuel-cells-by-multiscale-modeling/250127",
-      "source": "academicpositions"
-    },
-    {
-      "id": "250111",
-      "title": "Postdoc in Moblity service usage among car and non-car owners",
-      "employer": "Chalmers University of Technology",
-      "country": "Sweden",
-      "city": "Gothenburg",
-      "posted_date": "2026-07-17",
-      "deadline": null,
-      "description": "Postdoc researching mobility service use among car/non-car owners. Mixed-methods: survey stats + interviews with Gothenburg residents; interdisciplinary & stakeholder work. 2-year full-time, extendable.",
-      "url": "https://academicpositions.com/ad/chalmers-university-of-technology/2026/postdoc-in-moblity-service-usage-among-car-and-non-car-owners/250111",
-      "source": "academicpositions"
-    },
-    {
       "id": "250110",
       "title": "Postdoc in Green Synthesis of Conjugated Polymers for Wearable Electronics",
       "employer": "Chalmers University of Technology",
@@ -1815,30 +1671,6 @@
       "source": "academicpositions"
     },
     {
-      "id": "249914",
-      "title": "Doctoral student in statistical shape modelling of the human body for vehicle safety applications",
-      "employer": "Chalmers University of Technology",
-      "country": "Sweden",
-      "city": "Gothenburg",
-      "posted_date": "2026-06-17",
-      "deadline": null,
-      "description": "Fully funded PhD: build posture- and sex-aware human body models using medical imaging, statistical shape modelling, deep learning & crash simulation. Requires MSc, stats + Python.",
-      "url": "https://academicpositions.com/ad/chalmers-university-of-technology/2026/doctoral-student-in-statistical-shape-modelling-of-the-human-body-for-vehicle-safety-applications/249914",
-      "source": "academicpositions"
-    },
-    {
-      "id": "249865",
-      "title": "Postdoc in Sodium-ion batteries for transport: from materials to cell performance",
-      "employer": "Chalmers University of Technology",
-      "country": "Sweden",
-      "city": "Gothenburg",
-      "posted_date": "2026-06-17",
-      "deadline": null,
-      "description": "2-year postdoc on sodium-ion batteries for transport: performance testing, teardown and electrochemistry; analyse data, support modelling, publish. PhD in relevant field required.",
-      "url": "https://academicpositions.com/ad/chalmers-university-of-technology/2026/postdoc-in-sodium-ion-batteries-for-transport-from-materials-to-cell-performance/249865",
-      "source": "academicpositions"
-    },
-    {
       "id": "249849",
       "title": "Doctoral Studentship Employment in Resource Recovery with a Specialisation in Resource Management",
       "employer": "University of Borås",
@@ -1908,18 +1740,6 @@
       "deadline": null,
       "description": "Develop route-specific simulations and LCA for electrified coastal/inland vessels. Requires PhD, Python/Matlab, ship energy systems & hydrodynamics. 2-year full-time, Gothenburg.",
       "url": "https://academicpositions.com/ad/chalmers-university-of-technology/2026/postdoc-in-simulation-model-development-for-climate-neutral-waterborne-transport-on-coastal-and-inland-waterways/249590",
-      "source": "academicpositions"
-    },
-    {
-      "id": "249518",
-      "title": "Doctoral student in geodetic surveying with GNSS",
-      "employer": "KTH Royal Institute of Technology",
-      "country": "Sweden",
-      "city": "Stockholm",
-      "posted_date": "2026-06-17",
-      "deadline": null,
-      "description": "PhD project designing/evaluating GNSS methods for railway track positioning. Requires MSc/240hp in geodesy/physics, strong stats & EM propagation; Swedish + English.",
-      "url": "https://academicpositions.com/ad/kth-royal-institute-of-technology/2026/doctoral-student-in-geodetic-surveying-with-gnss/249518",
       "source": "academicpositions"
     },
     {
