@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# TrendRadar 本地产物(不推送)
+output/
+# data/ 目录保留 phd_jobs_snapshot.json(增量对比基准),仅忽略临时文件
+data/*.tmp
+data/*.bak
