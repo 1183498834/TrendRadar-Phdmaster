@@ -1,6 +1,6 @@
 {
   "crawled_at": "2026-08-17",
-  "count": 156,
+  "count": 157,
   "jobs": [
     {
       "id": "251963",
@@ -111,6 +111,18 @@
       "source": "academicpositions"
     },
     {
+      "id": "252005",
+      "title": "PostDoc in Multilayer Meta-Optics for High-Performance Optical Systems",
+      "employer": "Eindhoven University of Technology",
+      "country": "Netherlands",
+      "city": "Eindhoven",
+      "posted_date": "2026-08-17",
+      "deadline": null,
+      "description": "Postdoc to design, fabricate & test multilayer/hybrid meta-optics: full-wave/inverse design, EBL/deposition/RIE, broadband optical characterization & fiber coupling.",
+      "url": "https://academicpositions.com/ad/eindhoven-university-of-technology/2026/postdoc-in-multilayer-meta-optics-for-high-performance-optical-systems/252005",
+      "source": "academicpositions"
+    },
+    {
       "id": "251898",
       "title": "PhD in Computational Imaging for High-Throughput Applications (1.0 fte)",
       "employer": "Leiden University",
@@ -164,7 +176,7 @@
       "employer": "University of Twente",
       "country": "Netherlands",
       "city": "Enschede",
-      "posted_date": "2026-08-11",
+      "posted_date": "2026-08-10",
       "deadline": null,
       "description": "4-year funded PhD: design/synthesize nanometer-thin polymer brush coatings to prevent fouling in electrochemical separation & cleaning-in-place, reducing chemical additives. €3.2–4.1k/mo.",
       "url": "https://academicpositions.com/ad/university-of-twente/2026/phd-position-on-polymer-brush-coatings-for-electro-chemical-processes/251822",
@@ -176,7 +188,7 @@
       "employer": "Eindhoven University of Technology",
       "country": "Netherlands",
       "city": "Eindhoven",
-      "posted_date": "2026-08-11",
+      "posted_date": "2026-08-10",
       "deadline": null,
       "description": "4-year funded PhD: develop AI/ML methods to make quantum information systems robust to real-world noise. MSc EE/CS, research mindset, teamwork; 10–15% teaching. Eindhoven.",
       "url": "https://academicpositions.com/ad/eindhoven-university-of-technology/2026/phd-in-ai-and-quantum-information-science/251823",
@@ -572,7 +584,7 @@
       "employer": "Eindhoven University of Technology",
       "country": "Netherlands",
       "city": "Eindhoven",
-      "posted_date": "2026-07-27",
+      "posted_date": "2026-07-20",
       "deadline": null,
       "description": "PhD research on resilient ML + formal verification: detect failures, self-correct online under distribution shift, with provable guarantees. MSc CS/Math/AI; Python/Rust; Eindhoven.",
       "url": "https://academicpositions.com/ad/eindhoven-university-of-technology/2026/phd-in-resilient-machine-learning-and-formal-methods/251391",
@@ -668,7 +680,7 @@
       "employer": "Eindhoven University of Technology",
       "country": "Netherlands",
       "city": "Eindhoven",
-      "posted_date": "2026-07-20",
+      "posted_date": "2026-07-18",
       "deadline": null,
       "description": "4-year funded PhD in Eindhoven: justice-oriented, community-centered design research on scarcity, extreme conditions & more-than-human cooperation. Fieldwork, workshops, qualitative analysis.",
       "url": "https://academicpositions.com/ad/eindhoven-university-of-technology/2026/phd-in-design-for-scarcity-extreme-conditions-and-more-than-human-cooperation/251363",
@@ -1028,7 +1040,7 @@
       "employer": "Chalmers University of Technology",
       "country": "Sweden",
       "city": "Gothenburg",
-      "posted_date": "2026-08-11",
+      "posted_date": "2026-08-10",
       "deadline": null,
       "description": "2-year postdoc: design single-atom & dilute-alloy electrocatalysts for CO2 reduction and H2 fuel cells; synthesis, in situ/synchrotron characterization, CO2 electrolyzer tests.",
       "url": "https://academicpositions.com/ad/chalmers-university-of-technology/2026/postdoc-in-electrocatalysis/251828",
