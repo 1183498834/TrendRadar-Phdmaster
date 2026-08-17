@@ -1,6 +1,6 @@
 {
   "crawled_at": "2026-08-17",
-  "count": 154,
+  "count": 155,
   "jobs": [
     {
       "id": "251963",
@@ -8,7 +8,7 @@
       "employer": "OsloMet – Oslo Metropolitan University",
       "country": "Norway",
       "city": "Oslo",
-      "posted_date": "2026-08-15",
+      "posted_date": "2026-08-14",
       "deadline": null,
       "description": "3-year PhD investigating glycan biomarkers for sepsis diagnosis/stratification using MS/non-MS glycomics, EV profiling & clinical data. Requires MSc + lab experience.",
       "url": "https://academicpositions.com/ad/oslo-metropolitan-university/2026/phd-research-fellowship-in-glycomics-and-sepsis/251963",
@@ -272,7 +272,7 @@
       "employer": "Eindhoven University of Technology",
       "country": "Netherlands",
       "city": "Eindhoven",
-      "posted_date": "2026-08-13",
+      "posted_date": "2026-08-12",
       "deadline": null,
       "description": "4-year funded PhD designing quantum error-correction codes & fast decoders for real hardware; theory/algorithms, coding & simulation. Secondments in Italy and UK.",
       "url": "https://academicpositions.com/ad/eindhoven-university-of-technology/2026/phd-in-design-of-next-generation-quantum-error-correction-codes-and-decoders/251869",
@@ -344,7 +344,7 @@
       "employer": "Eindhoven University of Technology",
       "country": "Netherlands",
       "city": "Eindhoven",
-      "posted_date": "2026-08-03",
+      "posted_date": "2026-07-27",
       "deadline": null,
       "description": "Develop fluidic neural-network control for adaptive soft robots. Hands-on experiments + modeling, nonlinear FEM, optimization/RL; publish and supervise MSc/BSc. Eindhoven.",
       "url": "https://academicpositions.com/ad/eindhoven-university-of-technology/2026/phd-in-bioinspired-physical-control-of-soft-robots/251547",
@@ -356,7 +356,7 @@
       "employer": "Eindhoven University of Technology",
       "country": "Netherlands",
       "city": "Eindhoven",
-      "posted_date": "2026-08-03",
+      "posted_date": "2026-07-27",
       "deadline": null,
       "description": "PhD: develop microscale physical control for autonomous soft robots. Model/simulate and microfabricate fluidic neural networks. Excellent MSc required; microfab preferred.",
       "url": "https://academicpositions.com/ad/eindhoven-university-of-technology/2026/phd-in-physical-control-at-the-microscale/251548",
@@ -1849,6 +1849,18 @@
       "description": "Funded PhD in computational neuroscience: model large-scale neural recordings during natural behaviors using ML, graph theory & dynamical systems. Python/MATLAB/Julia. Stockholm.",
       "url": "https://academicpositions.com/ad/karolinska-institutet/2025/phd-position-computational-neuroscience-and-systems-biology-theme-neural-dynamics-underlying-survival-behaviors/241536",
       "source": "academicpositions"
+    },
+    {
+      "id": "460557",
+      "title": "PhD position at the Department of Geography",
+      "employer": "University of Bergen",
+      "country": "Norway",
+      "city": null,
+      "posted_date": "2026-08-17",
+      "deadline": "2026-10-15",
+      "description": "PhD positionThere is a vacancy for a PhD Research Fellow in Human Geography and Sustainable Development at the Department of Geography. The position is for a fixed-term period of 4 years, of which 25% will be dedicated to teaching, supervision and administrative tasks at the Department.The position...",
+      "url": "https://euraxess.ec.europa.eu/jobs/460557",
+      "source": "euraxess"
     }
   ]
 }
