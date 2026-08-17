@@ -1,6 +1,6 @@
 {
   "crawled_at": "2026-08-17",
-  "count": 161,
+  "count": 157,
   "jobs": [
     {
       "id": "251963",
@@ -1839,30 +1839,6 @@
       "source": "academicpositions"
     },
     {
-      "id": "460498",
-      "title": "11 PhD positions in the excellence & sustainability programme of the section Mechanics of Materials of TU/e",
-      "employer": "AcademicTransfer",
-      "country": "Netherlands",
-      "city": null,
-      "posted_date": "2026-08-16",
-      "deadline": "2026-09-30",
-      "description": "Are you an engineering scientist who wishes to contribute to high-tech applications, state-of-the-art modelling or experimentation of advanced sustainable materials across the scales? We are looking for outstanding and enthusiastic PhD candidates, with a proven track record of excellence, to work on...",
-      "url": "https://euraxess.ec.europa.eu/jobs/460498",
-      "source": "euraxess"
-    },
-    {
-      "id": "460500",
-      "title": "PhD AI-based cardiovascular image analysis and modeling",
-      "employer": "AcademicTransfer",
-      "country": "Netherlands",
-      "city": null,
-      "posted_date": "2026-08-16",
-      "deadline": "2026-08-30",
-      "description": "You will contribute to a translational research project aimed at improving the diagnosis and treatment of coronary artery disease and supporting clinical decision-making during catheterization procedures. The project brings together cardiovascular imaging, generative AI, and computational modeling...",
-      "url": "https://euraxess.ec.europa.eu/jobs/460500",
-      "source": "euraxess"
-    },
-    {
       "id": "460502",
       "title": "Doctoral student in Organic Chemistry",
       "employer": "Lund University via MyNetwork",
@@ -1887,51 +1863,27 @@
       "source": "euraxess"
     },
     {
-      "id": "460401",
-      "title": "Postdoc Experimental Study of Ice Formation Process for Contrails",
-      "employer": "Delft University of Technology via AcademicTransfer",
+      "id": "460498",
+      "title": "11 PhD positions in the excellence & sustainability programme of the section Mechanics of Materials of TU/e",
+      "employer": "AcademicTransfer",
       "country": "Netherlands",
       "city": null,
-      "posted_date": "2026-08-15",
-      "deadline": "2026-09-18",
-      "description": "Contrails are aviation sector’s invisible climate threats with large uncertainties. You’ll investigate contrail formation pathways for various particles through lab experiments.Job descriptionFacing the climate crisis, the aviation industry has developed an ambitious “net-zero” goal to decarbonize...",
-      "url": "https://euraxess.ec.europa.eu/jobs/460401",
+      "posted_date": "2026-08-16",
+      "deadline": "2026-09-30",
+      "description": "Are you an engineering scientist who wishes to contribute to high-tech applications, state-of-the-art modelling or experimentation of advanced sustainable materials across the scales? We are looking for outstanding and enthusiastic PhD candidates, with a proven track record of excellence, to work on...",
+      "url": "https://euraxess.ec.europa.eu/jobs/460498",
       "source": "euraxess"
     },
     {
-      "id": "460402",
-      "title": "Postdoc Predicting & Mitigating Liquid Copper Infiltration in Steels via Atomistic Simulations",
-      "employer": "Delft University of Technology via AcademicTransfer",
+      "id": "460500",
+      "title": "PhD AI-based cardiovascular image analysis and modeling",
+      "employer": "AcademicTransfer",
       "country": "Netherlands",
       "city": null,
-      "posted_date": "2026-08-15",
-      "deadline": "2026-09-21",
-      "description": "Join TU Delft and help enable liquid copper infiltration-resistant steels for a circular economy. As a postdoctoral researcher, you will unravel how silicon suppresses liquid copper infiltration at the atomic scale, using density functional theory-accurate machine-learned potentials and molecular...",
-      "url": "https://euraxess.ec.europa.eu/jobs/460402",
-      "source": "euraxess"
-    },
-    {
-      "id": "460403",
-      "title": "PhD Position Biomaterial Sciences Transcutaneous, Needle-Free Vascular Access for Hemodialysis",
-      "employer": "Delft University of Technology via AcademicTransfer",
-      "country": "Netherlands",
-      "city": null,
-      "posted_date": "2026-08-15",
-      "deadline": "2026-09-13",
-      "description": "Help build a needle-free future for dialysis patients. Join TU Delft and LUMC to develop a transcutaneous vascular access, uniting biomaterials, medical technology and clinical nephrology.Job descriptionFundamental biomedical research and clinical impact come together in this four-year PhD project...",
-      "url": "https://euraxess.ec.europa.eu/jobs/460403",
-      "source": "euraxess"
-    },
-    {
-      "id": "460404",
-      "title": "Postdoc position on Antarctic Mixotrophic Microalgae",
-      "employer": "University of Amsterdam (UvA) via AcademicTransfer",
-      "country": "Netherlands",
-      "city": null,
-      "posted_date": "2026-08-15",
-      "deadline": "2026-09-28",
-      "description": "Are you fascinated by marine microbes? Are you interested in the dynamics of microalgal communities, and how they are affected by environmental change? Do you like to combine laboratory experiments with molecular methods and fieldwork in polar ecosystems? We have a vacancy for a postdoctoral...",
-      "url": "https://euraxess.ec.europa.eu/jobs/460404",
+      "posted_date": "2026-08-16",
+      "deadline": "2026-08-30",
+      "description": "You will contribute to a translational research project aimed at improving the diagnosis and treatment of coronary artery disease and supporting clinical decision-making during catheterization procedures. The project brings together cardiovascular imaging, generative AI, and computational modeling...",
+      "url": "https://euraxess.ec.europa.eu/jobs/460500",
       "source": "euraxess"
     }
   ]
