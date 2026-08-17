@@ -1,6 +1,6 @@
 {
   "crawled_at": "2026-08-17",
-  "count": 155,
+  "count": 156,
   "jobs": [
     {
       "id": "251963",
@@ -116,7 +116,7 @@
       "employer": "Leiden University",
       "country": "Netherlands",
       "city": "Leiden",
-      "posted_date": "2026-08-14",
+      "posted_date": "2026-08-13",
       "deadline": null,
       "description": "PhD research on combined X-ray & visible-light 3D imaging and ML for high-throughput industrial inspection. MSc CS/AI, strong programming (Python/C++). Location: Leiden.",
       "url": "https://academicpositions.com/ad/leiden-university/2026/phd-in-computational-imaging-for-high-throughput-applications-1-0-fte/251898",
@@ -332,7 +332,7 @@
       "employer": "Technische Universiteit Delft (TU Delft)",
       "country": "Netherlands",
       "city": "Delft",
-      "posted_date": "2026-08-03",
+      "posted_date": "2026-07-27",
       "deadline": null,
       "description": "PhD researching battery-free IoT for 6G & satellite/NTN networks. Work with SDR/RF testbeds in EU projects; publish top venues. MSc in EE/CS/physics/aerospace.",
       "url": "https://academicpositions.com/ad/technische-universiteit-delft-tu-delft/2026/phd-position-in-electrical-engineering-battery-free-iot-for-6g-and-satellite-networks/251554",
@@ -951,6 +951,18 @@
       "source": "academicpositions"
     },
     {
+      "id": "252000",
+      "title": "Postdoc in Resilient 6G Networking",
+      "employer": "KTH Royal Institute of Technology",
+      "country": "Sweden",
+      "city": "Stockholm",
+      "posted_date": "2026-08-17",
+      "deadline": null,
+      "description": "2-year full-time postdoc on resilient 6G networking: AI for cyber-physical continuum, threat scenarios, distributed inference/AI RAN. Collaborate across universities and industry (Stockholm).",
+      "url": "https://academicpositions.com/ad/kth-royal-institute-of-technology/2026/postdoc-in-resilient-6g-networking/252000",
+      "source": "academicpositions"
+    },
+    {
       "id": "251951",
       "title": "Postdoctoral scholarship (2 years) within Bioinformatics",
       "employer": "Umeå University",
@@ -980,7 +992,7 @@
       "employer": "Karolinska Institutet",
       "country": "Sweden",
       "city": "Stockholm",
-      "posted_date": "2026-08-14",
+      "posted_date": "2026-08-13",
       "deadline": null,
       "description": "2-year postdoc studying host–pathogen macromolecular interactions using model membranes, advanced imaging (FLIM, LLSM) and MD simulations; includes VLPs, software/data analysis.",
       "url": "https://academicpositions.com/ad/karolinska-institutet/2026/postdoctoral-researcher-in-molecular-host-pathogen-interactions/251915",
@@ -992,7 +1004,7 @@
       "employer": "Örebro University",
       "country": "Sweden",
       "city": "Örebro",
-      "posted_date": "2026-08-12",
+      "posted_date": "2026-08-11",
       "deadline": null,
       "description": "Funded 4-year PhD studentship in gender studies (start spring 2027). Salary SEK 32,300/month. Requires master’s + 90 credits relevant studies and a PhD project outline.",
       "url": "https://academicpositions.com/ad/orebro-university/2026/doctoral-student-in-gender-studies/251858",
@@ -1004,7 +1016,7 @@
       "employer": "Örebro University",
       "country": "Sweden",
       "city": "Örebro",
-      "posted_date": "2026-08-12",
+      "posted_date": "2026-08-11",
       "deadline": null,
       "description": "2-year postdoc: develop ML & signal processing to estimate rock fragmentation distribution from mining machine vibration signals. Real field data; PhD + Python required.",
       "url": "https://academicpositions.com/ad/orebro-university/2026/postdoctoral-researcher-in-computer-science/251857",
