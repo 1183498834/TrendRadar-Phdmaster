@@ -1,6 +1,6 @@
 {
   "crawled_at": "2026-08-17",
-  "count": 157,
+  "count": 156,
   "jobs": [
     {
       "id": "251963",
@@ -992,7 +992,7 @@
       "employer": "Chalmers University of Technology",
       "country": "Sweden",
       "city": "Gothenburg",
-      "posted_date": "2026-08-14",
+      "posted_date": "2026-08-13",
       "deadline": null,
       "description": "Fully funded 2-year postdoc to design and run an independent, methodologically rigorous EMI research project; PhD in applied linguistics/education, strong publications and English.",
       "url": "https://academicpositions.com/ad/chalmers-university-of-technology/2026/postdoc-in-english-medium-instruction/251942",
@@ -1873,18 +1873,6 @@
       "description": "Funded PhD in computational neuroscience: model large-scale neural recordings during natural behaviors using ML, graph theory & dynamical systems. Python/MATLAB/Julia. Stockholm.",
       "url": "https://academicpositions.com/ad/karolinska-institutet/2025/phd-position-computational-neuroscience-and-systems-biology-theme-neural-dynamics-underlying-survival-behaviors/241536",
       "source": "academicpositions"
-    },
-    {
-      "id": "460557",
-      "title": "PhD position at the Department of Geography",
-      "employer": "University of Bergen",
-      "country": "Norway",
-      "city": null,
-      "posted_date": "2026-08-17",
-      "deadline": "2026-10-15",
-      "description": "PhD positionThere is a vacancy for a PhD Research Fellow in Human Geography and Sustainable Development at the Department of Geography. The position is for a fixed-term period of 4 years, of which 25% will be dedicated to teaching, supervision and administrative tasks at the Department.The position...",
-      "url": "https://euraxess.ec.europa.eu/jobs/460557",
-      "source": "euraxess"
     }
   ]
 }
