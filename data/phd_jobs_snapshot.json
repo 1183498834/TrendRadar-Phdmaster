@@ -1,6 +1,6 @@
 {
   "crawled_at": "2026-08-17",
-  "count": 158,
+  "count": 154,
   "jobs": [
     {
       "id": "251963",
@@ -524,7 +524,7 @@
       "employer": "Radboud University",
       "country": "Netherlands",
       "city": "Nijmegen",
-      "posted_date": "2026-07-27",
+      "posted_date": "2026-07-20",
       "deadline": null,
       "description": "Funded PhD in culture & history: 0.8–1.0 FTE, €3,059–€3,881/month. 75% research thesis, 25% training/teaching. Master’s in relevant field required.",
       "url": "https://academicpositions.com/ad/radboud-university/2026/phd-position-at-the-radboud-institute-for-culture-and-history/251376",
@@ -536,7 +536,7 @@
       "employer": "Radboud University",
       "country": "Netherlands",
       "city": "Nijmegen",
-      "posted_date": "2026-07-27",
+      "posted_date": "2026-07-20",
       "deadline": null,
       "description": "PhD research on cognitive & social processes in language at CLS; 75% thesis research, 25% teaching/training. 0.8–1.0 FTE, €3,059–€3,881/month.",
       "url": "https://academicpositions.com/ad/radboud-university/2026/phd-position-at-the-centre-for-language-studies/251375",
@@ -1628,7 +1628,7 @@
       "employer": "Chalmers University of Technology",
       "country": "Sweden",
       "city": "Gothenburg",
-      "posted_date": "2026-07-18",
+      "posted_date": "2026-06-18",
       "deadline": null,
       "description": "Fully funded PhD (up to 5) in Nano+Light (nanophotonics, quantum/nonlinear optics, plasmonics, imaging, integrated photonics). MSc in sci/eng; English.",
       "url": "https://academicpositions.com/ad/chalmers-university-of-technology/2026/doctoral-students-within-nanoscience-and-light/250042",
@@ -1640,7 +1640,7 @@
       "employer": "Chalmers University of Technology",
       "country": "Sweden",
       "city": "Gothenburg",
-      "posted_date": "2026-07-18",
+      "posted_date": "2026-06-18",
       "deadline": null,
       "description": "Fully funded 4-year PhD: develop photocatalysts to upcycle plastic waste using solar energy; synthesize/characterize materials, run batch/flow reactors, advanced analytics, EU collaboration.",
       "url": "https://academicpositions.com/ad/chalmers-university-of-technology/2026/doctoral-student-in-sustainable-photocatalysis-for-plastic-upcycling/250040",
@@ -1652,7 +1652,7 @@
       "employer": "Chalmers University of Technology",
       "country": "Sweden",
       "city": "Gothenburg",
-      "posted_date": "2026-07-18",
+      "posted_date": "2026-06-18",
       "deadline": null,
       "description": "2-year postdoc developing RL/deep/genAI for energy-aware coordination of EV fleets in emergency evacuations. Requires PhD, top ML/opt pubs, strong Python/PyTorch.",
       "url": "https://academicpositions.com/ad/chalmers-university-of-technology/2026/postdoc-position-in-ai-and-machine-learning-for-electromobility/250038",
@@ -1849,54 +1849,6 @@
       "description": "Funded PhD in computational neuroscience: model large-scale neural recordings during natural behaviors using ML, graph theory & dynamical systems. Python/MATLAB/Julia. Stockholm.",
       "url": "https://academicpositions.com/ad/karolinska-institutet/2025/phd-position-computational-neuroscience-and-systems-biology-theme-neural-dynamics-underlying-survival-behaviors/241536",
       "source": "academicpositions"
-    },
-    {
-      "id": "460502",
-      "title": "Doctoral student in Organic Chemistry",
-      "employer": "Lund University via MyNetwork",
-      "country": "Sweden",
-      "city": null,
-      "posted_date": "2026-08-16",
-      "deadline": "2026-09-04",
-      "description": "Description of the workplaceThe Centre for Analysis and Synthesis (CAS) is an interdisciplinary research environment at Lund University where analytical, materials, polymer, inorganic, and medicinal chemistry meet to address fundamental research questions for a sustainable future.At CAS, you will...",
-      "url": "https://euraxess.ec.europa.eu/jobs/460502",
-      "source": "euraxess"
-    },
-    {
-      "id": "460503",
-      "title": "Postdoctoral Researcher in Cell-Based Immunotherapy",
-      "employer": "Lund University via MyNetwork",
-      "country": "Sweden",
-      "city": null,
-      "posted_date": "2026-08-16",
-      "deadline": "2026-09-06",
-      "description": "Description of the workplaceThe research group Synthetic Immunology is based at the Division of Clinical Genetics, where cancer research of high international quality is conducted with a strong translational focus. The group primarily works in the field of synthetic immunology, with the aim of...",
-      "url": "https://euraxess.ec.europa.eu/jobs/460503",
-      "source": "euraxess"
-    },
-    {
-      "id": "460498",
-      "title": "11 PhD positions in the excellence & sustainability programme of the section Mechanics of Materials of TU/e",
-      "employer": "AcademicTransfer",
-      "country": "Netherlands",
-      "city": null,
-      "posted_date": "2026-08-16",
-      "deadline": "2026-09-30",
-      "description": "Are you an engineering scientist who wishes to contribute to high-tech applications, state-of-the-art modelling or experimentation of advanced sustainable materials across the scales? We are looking for outstanding and enthusiastic PhD candidates, with a proven track record of excellence, to work on...",
-      "url": "https://euraxess.ec.europa.eu/jobs/460498",
-      "source": "euraxess"
-    },
-    {
-      "id": "460500",
-      "title": "PhD AI-based cardiovascular image analysis and modeling",
-      "employer": "AcademicTransfer",
-      "country": "Netherlands",
-      "city": null,
-      "posted_date": "2026-08-16",
-      "deadline": "2026-08-30",
-      "description": "You will contribute to a translational research project aimed at improving the diagnosis and treatment of coronary artery disease and supporting clinical decision-making during catheterization procedures. The project brings together cardiovascular imaging, generative AI, and computational modeling...",
-      "url": "https://euraxess.ec.europa.eu/jobs/460500",
-      "source": "euraxess"
     }
   ]
 }
