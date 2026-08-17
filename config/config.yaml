@@ -192,6 +192,9 @@ phd_jobs:
     Sweden:
       euraxess_id: 770
       academicpositions_slug: sweden
+    Finland:
+      euraxess_id: 771
+      academicpositions_slug: finland
 
   snapshot:
     path: "data/phd_jobs_snapshot.json"   # 增量对比基准（跨运行持久化）
