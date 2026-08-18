@@ -5,13 +5,14 @@
 """
 
 # 默认目标国家
-TARGET_COUNTRIES = ["Norway", "Netherlands", "Sweden"]
+TARGET_COUNTRIES = ["Norway", "Netherlands", "Sweden", "Finland"]
 
-# EURAXESS 国家的 Drupal taxonomy 数字 ID(实测 768=Norway, 770=Sweden, 798=Netherlands)
+# EURAXESS 国家的 Drupal taxonomy 数字 ID(实测 768=Norway, 770=Sweden, 798=Netherlands, 760=Finland)
 EURAXXESS_COUNTRY_IDS = {
     "Norway": 768,
     "Netherlands": 798,
     "Sweden": 770,
+    "Finland": 760,
 }
 
 # Academic Positions 的 country slug
@@ -19,6 +20,7 @@ ACADEMICPOSITIONS_COUNTRY_SLUGS = {
     "Norway": "norway",
     "Netherlands": "netherlands",
     "Sweden": "sweden",
+    "Finland": "finland",
 }
 
 # 每源每国抓取页数(每页约 10 条)
