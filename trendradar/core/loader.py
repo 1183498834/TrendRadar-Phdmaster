@@ -467,7 +467,7 @@ def _load_phd_jobs_config(config_data: Dict) -> Dict:
         "REQUEST_INTERVAL_MS": phd.get("request_interval_ms", 800),
         "POSITION_TYPES": position_types,
         "COUNTRIES": [
-            c for c in ("Norway", "Netherlands", "Sweden") if c in countries
+            c for c in ("Norway", "Netherlands", "Sweden", "Finland") if c in countries
         ] or list(countries.keys()),
         "SOURCES": phd.get("sources", {}),
         "SNAPSHOT": phd.get("snapshot", {"path": "data/phd_jobs_snapshot.json"}),
