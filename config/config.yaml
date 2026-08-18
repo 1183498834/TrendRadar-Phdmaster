@@ -193,7 +193,7 @@ phd_jobs:
       euraxess_id: 770
       academicpositions_slug: sweden
     Finland:
-      euraxess_id: 771
+      euraxess_id: 760
       academicpositions_slug: finland
 
   snapshot:
