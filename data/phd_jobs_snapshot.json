@@ -1,6 +1,6 @@
 {
   "crawled_at": "2026-08-18",
-  "count": 194,
+  "count": 190,
   "jobs": [
     {
       "id": "251963",
@@ -488,7 +488,7 @@
       "employer": "University of Twente",
       "country": "Netherlands",
       "city": "Enschede",
-      "posted_date": "2026-07-28",
+      "posted_date": "2026-07-21",
       "deadline": null,
       "description": "4-year PhD: model radiative exchanges using in-situ optical/thermal sensors plus airborne & satellite imagery; study reflectance/hotspot effects. MSc in physics/geo; strong coding.",
       "url": "https://academicpositions.com/ad/university-of-twente/2026/doctoral-candidate-spatial-integration-for-high-tech-remote-sensing-of-natural-and-built-ecosystems/251413",
@@ -500,7 +500,7 @@
       "employer": "University of Twente",
       "country": "Netherlands",
       "city": "Enschede",
-      "posted_date": "2026-07-28",
+      "posted_date": "2026-07-21",
       "deadline": null,
       "description": "PhD (4y) integrating Earth system models with sensor & satellite data using explainable GeoAI; model air quality/heat/drought. MSc STEM; strong Python/C++.",
       "url": "https://academicpositions.com/ad/university-of-twente/2026/doctoral-candidate-temporal-integration-for-high-tech-remote-sensing-of-natural-and-built-ecosystems/251412",
@@ -512,7 +512,7 @@
       "employer": "University of Twente",
       "country": "Netherlands",
       "city": "Enschede",
-      "posted_date": "2026-07-28",
+      "posted_date": "2026-07-21",
       "deadline": null,
       "description": "4-year PhD on extremal structural causal models; theory + method implementation. Need strong probability/math stats and coding (R/Python/C++/Julia).",
       "url": "https://academicpositions.com/ad/university-of-twente/2026/phd-position-on-flexible-structural-causal-modelling-in-extreme-value-statistics/251410",
@@ -524,7 +524,7 @@
       "employer": "University of Twente",
       "country": "Netherlands",
       "city": "Enschede",
-      "posted_date": "2026-07-28",
+      "posted_date": "2026-07-21",
       "deadline": null,
       "description": "3-year Postdoc developing smart, ethical daily-life stress monitoring/feedback using wearables, smartphones & passive sensing; real-time data integration and motivational strategies.",
       "url": "https://academicpositions.com/ad/university-of-twente/2026/postdoc-position-on-monitoring-and-feedback-systems-stress-in-action/251409",
@@ -1016,7 +1016,7 @@
       "employer": "Chalmers University of Technology",
       "country": "Sweden",
       "city": "Gothenburg",
-      "posted_date": "2026-08-14",
+      "posted_date": "2026-08-13",
       "deadline": null,
       "description": "Fully funded 2-year postdoc to design and run an independent, methodologically rigorous EMI research project; PhD in applied linguistics/education, strong publications and English.",
       "url": "https://academicpositions.com/ad/chalmers-university-of-technology/2026/postdoc-in-english-medium-instruction/251942",
@@ -2281,54 +2281,6 @@
       "description": "Fully funded 3–6 month doctoral research posts in health & biosciences (2027). For healthcare professionals with Master’s and doctoral study right. Salary ~€2500–3200/mo.",
       "url": "https://academicpositions.com/ad/university-of-oulu/2026/multiple-short-term-doctoral-researcher-positions-in-health-and-biosciences/248584",
       "source": "academicpositions"
-    },
-    {
-      "id": "460597",
-      "title": "Postdoctoral position in freshwater ecology and climate change",
-      "employer": "Talentech",
-      "country": "Sweden",
-      "city": null,
-      "posted_date": "2026-08-18",
-      "deadline": "2026-09-28",
-      "description": "Department of Forest Ecology and Management Project Description: Climate change is increasing the frequency and intensity of droughts, floods, heatwaves, and storms. Small streams and their surrounding riparian forests are particularly vulnerable to these changes especially in managed forests where...",
-      "url": "https://euraxess.ec.europa.eu/jobs/460597",
-      "source": "euraxess"
-    },
-    {
-      "id": "460603",
-      "title": "PhD position (4 years) on the Role of Foveal Processing in Spatial Attention",
-      "employer": "AcademicTransfer",
-      "country": "Netherlands",
-      "city": null,
-      "posted_date": "2026-08-18",
-      "deadline": "2026-09-30",
-      "description": "Preferred starting date: January 1, 2027 at the latestWe offer a four-year PhD position within the NWO-funded project “The Role of Foveal Processing in Spatial Attention.” The project investigates the novel hypothesis that directing attention to an object in peripheral vision recruits foveal brain...",
-      "url": "https://euraxess.ec.europa.eu/jobs/460603",
-      "source": "euraxess"
-    },
-    {
-      "id": "460604",
-      "title": "Postdoc Position: Meaningful Work in Organizations",
-      "employer": "AcademicTransfer",
-      "country": "Netherlands",
-      "city": null,
-      "posted_date": "2026-08-18",
-      "deadline": "2026-09-07",
-      "description": "VU People@Work Research Group at the Department of Management and Organization is seeking a postdoctoral fellow to work with Dr. Evgenia Lysova – the Head of the Research Group – on several research projects on meaningful work in connection with the future of work, including its economic (i.e...",
-      "url": "https://euraxess.ec.europa.eu/jobs/460604",
-      "source": "euraxess"
-    },
-    {
-      "id": "460605",
-      "title": "PhD: Instrumentation for quantitative nanoparticle analysis (valorization focus)",
-      "employer": "AcademicTransfer",
-      "country": "Netherlands",
-      "city": null,
-      "posted_date": "2026-08-18",
-      "deadline": "2026-09-18",
-      "description": "We are looking for a highly motivated student that is excited about developing optical instrumentation for applications in nanosizing and characterization. The project is based on NWO OTP-funding and a direct extension of previous work (1, 2, 3) with a strong focus on valorization and...",
-      "url": "https://euraxess.ec.europa.eu/jobs/460605",
-      "source": "euraxess"
     }
   ]
 }
