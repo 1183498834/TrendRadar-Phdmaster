@@ -1,6 +1,6 @@
 {
   "crawled_at": "2026-08-18",
-  "count": 157,
+  "count": 158,
   "jobs": [
     {
       "id": "251963",
@@ -963,6 +963,18 @@
       "source": "academicpositions"
     },
     {
+      "id": "252019",
+      "title": "Postdoctor in Botany (Plant Science)",
+      "employer": "University of Gothenburg",
+      "country": "Sweden",
+      "city": "Gothenburg",
+      "posted_date": "2026-08-18",
+      "deadline": null,
+      "description": "2-year postdoc in plant evolution: analyze southern African Asteraceae diversification (phylogenomics, GIS, R); publish 3 papers; build independent project with living collections.",
+      "url": "https://academicpositions.com/ad/university-of-gothenburg/2026/postdoctor-in-botany-plant-science/252019",
+      "source": "academicpositions"
+    },
+    {
       "id": "252016",
       "title": "Postdoc in Type theory and programming languages",
       "employer": "University of Gothenburg",
@@ -1076,7 +1088,7 @@
       "employer": "Chalmers University of Technology",
       "country": "Sweden",
       "city": "Gothenburg",
-      "posted_date": "2026-08-11",
+      "posted_date": "2026-08-04",
       "deadline": null,
       "description": "2-year salaried postdoc in Gothenburg researching human-in-the-loop adaptive static/dynamic security analysis to secure software supply chains; publish, collaborate, supervise students.",
       "url": "https://academicpositions.com/ad/chalmers-university-of-technology/2026/postdoc-in-human-in-the-loop-software-engineering-for-secure-software-supply-chains/251701",
