@@ -963,6 +963,18 @@
       "source": "academicpositions"
     },
     {
+      "id": "252016",
+      "title": "Postdoc in Type theory and programming languages",
+      "employer": "University of Gothenburg",
+      "country": "Sweden",
+      "city": "Gothenburg",
+      "posted_date": "2026-08-18",
+      "deadline": null,
+      "description": "2-year full-time postdoc: build and verify a compiler from cubical type theory to efficient executable code, with erasure support. Publish top venues; up to 20% teaching.",
+      "url": "https://academicpositions.com/ad/university-of-gothenburg/2026/postdoc-in-type-theory-and-programming-languages/252016",
+      "source": "academicpositions"
+    },
+    {
       "id": "252000",
       "title": "Postdoc in Resilient 6G Networking",
       "employer": "KTH Royal Institute of Technology",
@@ -1872,18 +1884,6 @@
       "deadline": "2026-09-18",
       "description": "We are looking for a highly motivated student that is excited about developing optical instrumentation for applications in nanosizing and characterization. The project is based on NWO OTP-funding and a direct extension of previous work (1, 2, 3) with a strong focus on valorization and...",
       "url": "https://euraxess.ec.europa.eu/jobs/460605",
-      "source": "euraxess"
-    },
-    {
-      "id": "460606",
-      "title": "PhD Position in Social Data Science",
-      "employer": "AcademicTransfer",
-      "country": "Netherlands",
-      "city": null,
-      "posted_date": "2026-08-18",
-      "deadline": "2026-09-14",
-      "description": "This fully funded four-year PhD position is part of the Vidi project “The economy of digital influence operations”, led by Associate Professor Jon Roozenbeek. The project investigates the market infrastructure that supports disinformation and influence operations in digital environments. Through a...",
-      "url": "https://euraxess.ec.europa.eu/jobs/460606",
       "source": "euraxess"
     }
   ]
