@@ -1,6 +1,6 @@
 {
   "crawled_at": "2026-08-18",
-  "count": 151,
+  "count": 157,
   "jobs": [
     {
       "id": "251963",
@@ -20,7 +20,7 @@
       "employer": "BI Norwegian Business School",
       "country": "Norway",
       "city": "Oslo",
-      "posted_date": "2026-08-14",
+      "posted_date": "2026-08-13",
       "deadline": null,
       "description": "4-year funded PhD on human-centered data governance, privacy & smart environments; focus on user/communication aspects. Based in Oslo with 25% teaching and international collaboration.",
       "url": "https://academicpositions.com/ad/bi-norwegian-business-school/2026/phd-candidate/251880",
@@ -108,6 +108,18 @@
       "deadline": null,
       "description": "PhD research in applied math: develop robust multi-criteria inverse freeform optical design under uncertainty (UQ, polynomial chaos), optimization & scientific computing; apply to telescopes.",
       "url": "https://academicpositions.com/ad/eindhoven-university-of-technology/2026/phd-position-robust-multi-criteria-optical-design-under-uncertainty/251981",
+      "source": "academicpositions"
+    },
+    {
+      "id": "252008",
+      "title": "PhD in Spatial System Mapping and Decision-Support Design for Nature-Inclusive Agrifood Transitions",
+      "employer": "Eindhoven University of Technology",
+      "country": "Netherlands",
+      "city": "Eindhoven",
+      "posted_date": "2026-08-18",
+      "deadline": null,
+      "description": "PhD: build interactive GIS-based decision-support for nature-inclusive agrifood transitions; spatial/system mapping, stakeholder workshops with farmers, Python & JS/TS skills.",
+      "url": "https://academicpositions.com/ad/eindhoven-university-of-technology/2026/phd-in-spatial-system-mapping-and-decision-support-design-for-nature-inclusive-agrifood-transitions/252008",
       "source": "academicpositions"
     },
     {
@@ -1813,6 +1825,66 @@
       "description": "Funded PhD in computational neuroscience: model large-scale neural recordings during natural behaviors using ML, graph theory & dynamical systems. Python/MATLAB/Julia. Stockholm.",
       "url": "https://academicpositions.com/ad/karolinska-institutet/2025/phd-position-computational-neuroscience-and-systems-biology-theme-neural-dynamics-underlying-survival-behaviors/241536",
       "source": "academicpositions"
+    },
+    {
+      "id": "460597",
+      "title": "Postdoctoral position in freshwater ecology and climate change",
+      "employer": "Talentech",
+      "country": "Sweden",
+      "city": null,
+      "posted_date": "2026-08-18",
+      "deadline": "2026-09-28",
+      "description": "Department of Forest Ecology and Management Project Description: Climate change is increasing the frequency and intensity of droughts, floods, heatwaves, and storms. Small streams and their surrounding riparian forests are particularly vulnerable to these changes especially in managed forests where...",
+      "url": "https://euraxess.ec.europa.eu/jobs/460597",
+      "source": "euraxess"
+    },
+    {
+      "id": "460603",
+      "title": "PhD position (4 years) on the Role of Foveal Processing in Spatial Attention",
+      "employer": "AcademicTransfer",
+      "country": "Netherlands",
+      "city": null,
+      "posted_date": "2026-08-18",
+      "deadline": "2026-09-30",
+      "description": "Preferred starting date: January 1, 2027 at the latestWe offer a four-year PhD position within the NWO-funded project “The Role of Foveal Processing in Spatial Attention.” The project investigates the novel hypothesis that directing attention to an object in peripheral vision recruits foveal brain...",
+      "url": "https://euraxess.ec.europa.eu/jobs/460603",
+      "source": "euraxess"
+    },
+    {
+      "id": "460604",
+      "title": "Postdoc Position: Meaningful Work in Organizations",
+      "employer": "AcademicTransfer",
+      "country": "Netherlands",
+      "city": null,
+      "posted_date": "2026-08-18",
+      "deadline": "2026-09-07",
+      "description": "VU People@Work Research Group at the Department of Management and Organization is seeking a postdoctoral fellow to work with Dr. Evgenia Lysova – the Head of the Research Group – on several research projects on meaningful work in connection with the future of work, including its economic (i.e...",
+      "url": "https://euraxess.ec.europa.eu/jobs/460604",
+      "source": "euraxess"
+    },
+    {
+      "id": "460605",
+      "title": "PhD: Instrumentation for quantitative nanoparticle analysis (valorization focus)",
+      "employer": "AcademicTransfer",
+      "country": "Netherlands",
+      "city": null,
+      "posted_date": "2026-08-18",
+      "deadline": "2026-09-18",
+      "description": "We are looking for a highly motivated student that is excited about developing optical instrumentation for applications in nanosizing and characterization. The project is based on NWO OTP-funding and a direct extension of previous work (1, 2, 3) with a strong focus on valorization and...",
+      "url": "https://euraxess.ec.europa.eu/jobs/460605",
+      "source": "euraxess"
+    },
+    {
+      "id": "460606",
+      "title": "PhD Position in Social Data Science",
+      "employer": "AcademicTransfer",
+      "country": "Netherlands",
+      "city": null,
+      "posted_date": "2026-08-18",
+      "deadline": "2026-09-14",
+      "description": "This fully funded four-year PhD position is part of the Vidi project “The economy of digital influence operations”, led by Associate Professor Jon Roozenbeek. The project investigates the market infrastructure that supports disinformation and influence operations in digital environments. Through a...",
+      "url": "https://euraxess.ec.europa.eu/jobs/460606",
+      "source": "euraxess"
     }
   ]
 }
