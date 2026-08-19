@@ -1,6 +1,6 @@
 {
   "crawled_at": "2026-08-19",
-  "count": 193,
+  "count": 194,
   "jobs": [
     {
       "id": "251963",
@@ -972,6 +972,18 @@
       "deadline": null,
       "description": "4-year fully funded PhD in analog/RF IC design (advanced CMOS, test-chip lab). MSc EE (Analog/RF) with excellent grades; creative, independent researcher. €3,059–€3,881/mo.",
       "url": "https://academicpositions.com/ad/university-of-twente/2022/phd-position-in-ic-design-group/188333",
+      "source": "academicpositions"
+    },
+    {
+      "id": "252046",
+      "title": "PhD position in global change biology",
+      "employer": "University of Gothenburg",
+      "country": "Sweden",
+      "city": "Gothenburg",
+      "posted_date": "2026-08-19",
+      "deadline": null,
+      "description": "The University of Gothenburg tackles society’s challenges with diverse knowledge. 58 000 students and 6800 employees make the university a large and inspiring place to work and study. Strong research and attractive study programmes attract researc...",
+      "url": "https://academicpositions.com/ad/university-of-gothenburg/2026/phd-position-in-global-change-biology/252046",
       "source": "academicpositions"
     },
     {
