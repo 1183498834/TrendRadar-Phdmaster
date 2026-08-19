@@ -1,6 +1,6 @@
 {
   "crawled_at": "2026-08-19",
-  "count": 186,
+  "count": 189,
   "jobs": [
     {
       "id": "251963",
@@ -2233,6 +2233,42 @@
       "description": "Fully funded 3–6 month doctoral research posts in health & biosciences (2027). For healthcare professionals with Master’s and doctoral study right. Salary ~€2500–3200/mo.",
       "url": "https://academicpositions.com/ad/university-of-oulu/2026/multiple-short-term-doctoral-researcher-positions-in-health-and-biosciences/248584",
       "source": "academicpositions"
+    },
+    {
+      "id": "460824",
+      "title": "Doctoral researcher / Project researcher in psychology",
+      "employer": "Academic Positions",
+      "country": "Finland",
+      "city": null,
+      "posted_date": "2026-08-19",
+      "deadline": "2026-08-31",
+      "description": "The Department of Biodiversity Sciences at the University of Turku invites applications for a doctoral researcher/project researcher to work in the ERC-funded NATURETIME project. The doctoral researcher/project researcher position is offered a fixed-term full-time contract for 48 months (4 years)...",
+      "url": "https://euraxess.ec.europa.eu/jobs/460824",
+      "source": "euraxess"
+    },
+    {
+      "id": "460825",
+      "title": "Doctoral researcher / Project researcher in pro-environmental behaviour",
+      "employer": "Academic Positions",
+      "country": "Finland",
+      "city": null,
+      "posted_date": "2026-08-19",
+      "deadline": "2026-08-31",
+      "description": "The Department of Biodiversity Sciences at the University of Turku invites applications for a doctoral researcher/project researcher to work in the ERC-funded NATURETIME project. The doctoral researcher/project researcher position is offered a fixed-term full-time contract for 48 months (4 years)...",
+      "url": "https://euraxess.ec.europa.eu/jobs/460825",
+      "source": "euraxess"
+    },
+    {
+      "id": "460826",
+      "title": "Postdoctoral Research Fellow (Bioinformatics and AI-Assisted Evidence Synthesis)",
+      "employer": "Academic Positions",
+      "country": "Finland",
+      "city": null,
+      "posted_date": "2026-08-19",
+      "deadline": "2026-09-10",
+      "description": "Tampere University and Tampere University of Applied Sciences create a unique environment for multidisciplinary, inspirational and high-impact research and education. Our university community has its competitive edges in technology, health and society. www.tuni.fi/en . We are looking for a...",
+      "url": "https://euraxess.ec.europa.eu/jobs/460826",
+      "source": "euraxess"
     }
   ]
 }
