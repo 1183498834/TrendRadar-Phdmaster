@@ -1,6 +1,6 @@
 {
   "crawled_at": "2026-08-19",
-  "count": 189,
+  "count": 186,
   "jobs": [
     {
       "id": "251963",
@@ -104,7 +104,7 @@
       "employer": "Eindhoven University of Technology",
       "country": "Netherlands",
       "city": "Eindhoven",
-      "posted_date": "2026-08-18",
+      "posted_date": "2026-08-17",
       "deadline": null,
       "description": "PhD research in applied math: develop robust multi-criteria inverse freeform optical design under uncertainty (UQ, polynomial chaos), optimization & scientific computing; apply to telescopes.",
       "url": "https://academicpositions.com/ad/eindhoven-university-of-technology/2026/phd-position-robust-multi-criteria-optical-design-under-uncertainty/251981",
@@ -1899,18 +1899,6 @@
       "source": "academicpositions"
     },
     {
-      "id": "252027",
-      "title": "Doctoral Researcher (PhD Student), Development of Nanovectors for Cancer Immunotherapy",
-      "employer": "University of Eastern Finland",
-      "country": "Finland",
-      "city": "Kuopio",
-      "posted_date": "2026-08-18",
-      "deadline": null,
-      "description": "PhD project developing radiolabeled inorganic nanovectors for TNBC immunotherapy (photothermal + radiotherapy); characterization, in vitro & preclinical studies, PET/MRI. Kuopio. €2.7–2.85k/mo.",
-      "url": "https://academicpositions.com/ad/university-of-eastern-finland/2026/doctoral-researcher-phd-student-development-of-nanovectors-for-cancer-immunotherapy/252027",
-      "source": "academicpositions"
-    },
-    {
       "id": "251948",
       "title": "Doctoral Researcher in health sciences",
       "employer": "University of Oulu",
@@ -1968,18 +1956,6 @@
       "deadline": null,
       "description": "2-year postdoc (psychology/education) in Oulu: research youths’ critical emotional awareness vs disinformation in polycrisis; interviews, develop/test survey scale, publish.",
       "url": "https://academicpositions.com/ad/university-of-oulu/2026/postdoctoral-researcher-in-the-front-research-programme/251975",
-      "source": "academicpositions"
-    },
-    {
-      "id": "251884",
-      "title": "Project Researcher (pre- or post-doctoral level)",
-      "employer": "University of Eastern Finland",
-      "country": "Finland",
-      "city": "Joensuu",
-      "posted_date": "2026-08-14",
-      "deadline": null,
-      "description": "Part-time pre/postdoc researcher in Joensuu: study socio-cultural & policy frameworks for seaweed-based foods via media analysis, interviews & EU policy review; 25–60% up to 24 mo.",
-      "url": "https://academicpositions.com/ad/university-of-eastern-finland/2026/project-researcher-pre-or-post-doctoral-level/251884",
       "source": "academicpositions"
     },
     {
@@ -2052,18 +2028,6 @@
       "deadline": null,
       "description": "Lead laser-system setup and ion-trap integration for Doppler/sympathetic cooling of radioactive ions at IGISOL; PhD with laser/vacuum/electronics/data skills.",
       "url": "https://academicpositions.com/ad/university-of-jyvaskyla/2026/postdoctoral-researcher-in-doppler-and-sympathetic-cooling-of-radioactive-ions/251744",
-      "source": "academicpositions"
-    },
-    {
-      "id": "251768",
-      "title": "Postdoctoral Researcher, Medical Physics and Engineering",
-      "employer": "University of Eastern Finland",
-      "country": "Finland",
-      "city": "Kuopio",
-      "posted_date": "2026-08-12",
-      "deadline": null,
-      "description": "Tutkijatohtori kehittämään avoimen lähdekoodin matalakenttä-MRI-laitetta (~50 mT): laitteisto, pulssisekvenssit, rekonstruktio ja sovellukset. Kuopio, 2,5 v.",
-      "url": "https://academicpositions.com/ad/university-of-eastern-finland/2026/postdoctoral-researcher-medical-physics-and-engineering/251768",
       "source": "academicpositions"
     },
     {
