@@ -1,6 +1,6 @@
 {
   "crawled_at": "2026-08-19",
-  "count": 189,
+  "count": 193,
   "jobs": [
     {
       "id": "251963",
@@ -20,7 +20,7 @@
       "employer": "BI Norwegian Business School",
       "country": "Norway",
       "city": "Oslo",
-      "posted_date": "2026-08-14",
+      "posted_date": "2026-08-13",
       "deadline": null,
       "description": "4-year funded PhD on human-centered data governance, privacy & smart environments; focus on user/communication aspects. Based in Oslo with 25% teaching and international collaboration.",
       "url": "https://academicpositions.com/ad/bi-norwegian-business-school/2026/phd-candidate/251880",
@@ -452,7 +452,7 @@
       "employer": "Dutch Institute for Fundamental Energy Research DIFFER",
       "country": "Netherlands",
       "city": "Eindhoven",
-      "posted_date": "2026-07-29",
+      "posted_date": "2026-07-22",
       "deadline": null,
       "description": "4-year PhD researching plasma–flowing liquid metal interactions for fusion walls; design/build a liquid metal loop and run Magnum-PSI/LiMeS experiments. MSc (applied) physics required.",
       "url": "https://academicpositions.com/ad/dutch-institute-fundamental-energy-research-differ/2026/phd-plasma-interaction-with-flowing-liquid-metal-systems/251431",
@@ -1899,6 +1899,18 @@
       "source": "academicpositions"
     },
     {
+      "id": "252027",
+      "title": "Doctoral Researcher (PhD Student), Development of Nanovectors for Cancer Immunotherapy",
+      "employer": "University of Eastern Finland",
+      "country": "Finland",
+      "city": "Kuopio",
+      "posted_date": "2026-08-18",
+      "deadline": null,
+      "description": "PhD project developing radiolabeled inorganic nanovectors for TNBC immunotherapy (photothermal + radiotherapy); characterization, in vitro & preclinical studies, PET/MRI. Kuopio. €2.7–2.85k/mo.",
+      "url": "https://academicpositions.com/ad/university-of-eastern-finland/2026/doctoral-researcher-phd-student-development-of-nanovectors-for-cancer-immunotherapy/252027",
+      "source": "academicpositions"
+    },
+    {
       "id": "251948",
       "title": "Doctoral Researcher in health sciences",
       "employer": "University of Oulu",
@@ -1959,6 +1971,18 @@
       "source": "academicpositions"
     },
     {
+      "id": "251884",
+      "title": "Project Researcher (pre- or post-doctoral level)",
+      "employer": "University of Eastern Finland",
+      "country": "Finland",
+      "city": "Joensuu",
+      "posted_date": "2026-08-14",
+      "deadline": null,
+      "description": "Part-time pre/postdoc researcher in Joensuu: study socio-cultural & policy frameworks for seaweed-based foods via media analysis, interviews & EU policy review; 25–60% up to 24 mo.",
+      "url": "https://academicpositions.com/ad/university-of-eastern-finland/2026/project-researcher-pre-or-post-doctoral-level/251884",
+      "source": "academicpositions"
+    },
+    {
       "id": "251894",
       "title": "Doctoral Researcher, Multimodal AI and Physiological Sensing for Cardiometabolic Health",
       "employer": "University of Oulu",
@@ -2016,6 +2040,18 @@
       "deadline": null,
       "description": "Coordinate lipid scramblase research: high-throughput MD (CG/atomistic), analysis & tool dev, supervise PhD, work with experimental collaborators. PhD + GROMACS, Python; ML/protein design a plus.",
       "url": "https://academicpositions.com/ad/tampere-university/2026/postdoctoral-research-fellow-computational-biophysics/251812",
+      "source": "academicpositions"
+    },
+    {
+      "id": "251768",
+      "title": "Postdoctoral Researcher, Medical Physics and Engineering",
+      "employer": "University of Eastern Finland",
+      "country": "Finland",
+      "city": "Kuopio",
+      "posted_date": "2026-08-12",
+      "deadline": null,
+      "description": "Tutkijatohtori kehittämään avoimen lähdekoodin matalakenttä-MRI-laitetta (~50 mT): laitteisto, pulssisekvenssit, rekonstruktio ja sovellukset. Kuopio, 2,5 v.",
+      "url": "https://academicpositions.com/ad/university-of-eastern-finland/2026/postdoctoral-researcher-medical-physics-and-engineering/251768",
       "source": "academicpositions"
     },
     {
@@ -2233,6 +2269,18 @@
       "description": "Fully funded 3–6 month doctoral research posts in health & biosciences (2027). For healthcare professionals with Master’s and doctoral study right. Salary ~€2500–3200/mo.",
       "url": "https://academicpositions.com/ad/university-of-oulu/2026/multiple-short-term-doctoral-researcher-positions-in-health-and-biosciences/248584",
       "source": "academicpositions"
+    },
+    {
+      "id": "460838",
+      "title": "PhD Candidate in Creating Inclusive Climate Risk Scenarios in Urban Planning using AI",
+      "employer": "NTNU Norwegian University of Science and Technology",
+      "country": "Norway",
+      "city": null,
+      "posted_date": "2026-08-19",
+      "deadline": "2026-10-05",
+      "description": "This is NTNUNTNU is a broad-based university with a technical-scientific profile and a focus in professional education. The university is located in three cities with headquarters in Trondheim.At NTNU, 9,000 employees and 43,000 students work to create knowledge for a better world.You will find more...",
+      "url": "https://euraxess.ec.europa.eu/jobs/460838",
+      "source": "euraxess"
     },
     {
       "id": "460824",
