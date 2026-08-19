@@ -1,6 +1,6 @@
 {
   "crawled_at": "2026-08-19",
-  "count": 193,
+  "count": 195,
   "jobs": [
     {
       "id": "251963",
@@ -96,6 +96,18 @@
       "deadline": null,
       "description": "4-year PhD in administrative & criminal law on administrative sanctions (rule of law, due process, proportionality); 25% teaching. Requires Master of Law; affiliation UiO/UiB.",
       "url": "https://academicpositions.com/ad/bi-norwegian-business-school/2026/phd-candidate-in-administrative-sanctions/248373",
+      "source": "academicpositions"
+    },
+    {
+      "id": "252039",
+      "title": "PhD: Compact interferometric inertial sensing for gravitational-wave detector",
+      "employer": "National Institute for Subatomic Physics (NIKHEF)",
+      "country": "Netherlands",
+      "city": "Amsterdam",
+      "posted_date": "2026-08-19",
+      "deadline": null,
+      "description": "4-year PhD developing robust compact interferometric inertial sensors: homodyne quadrature optical readout, open/closed-loop control, build prototypes; model in Python/C++/Matlab.",
+      "url": "https://academicpositions.com/ad/national-institute-subatomic-physics-nikhef/2026/phd-compact-interferometric-inertial-sensing-for-gravitational-wave-detector/252039",
       "source": "academicpositions"
     },
     {
@@ -948,6 +960,18 @@
       "deadline": null,
       "description": "4-year fully funded PhD in analog/RF IC design (advanced CMOS, test-chip lab). MSc EE (Analog/RF) with excellent grades; creative, independent researcher. €3,059–€3,881/mo.",
       "url": "https://academicpositions.com/ad/university-of-twente/2022/phd-position-in-ic-design-group/188333",
+      "source": "academicpositions"
+    },
+    {
+      "id": "252037",
+      "title": "Postdoc in Developing AI/ML workflow for quantitative analysis of lipid nanoparticles",
+      "employer": "KTH Royal Institute of Technology",
+      "country": "Sweden",
+      "city": "Stockholm",
+      "posted_date": "2026-08-19",
+      "deadline": null,
+      "description": "Develop AI/ML workflows to quantify lipid nanoparticles from Cryo-EM. Optimize data collection, implement pipelines, validate results. Requires PhD, Cryo-EM & large-scale data; teamwork/supervision.",
+      "url": "https://academicpositions.com/ad/kth-royal-institute-of-technology/2026/postdoc-in-developing-aiml-workflow-for-quantitative-analysis-of-lipid-nanoparticles/252037",
       "source": "academicpositions"
     },
     {
@@ -1916,7 +1940,7 @@
       "employer": "University of Oulu",
       "country": "Finland",
       "city": "Oulu",
-      "posted_date": "2026-08-15",
+      "posted_date": "2026-08-14",
       "deadline": null,
       "description": "4-year full-time PhD role researching hybrid intelligence & playful learning in XR healthcare education; run workshops/simulations, analyze multimodal data, publish internationally.",
       "url": "https://academicpositions.com/ad/university-of-oulu/2026/doctoral-researcher-in-health-sciences/251948",
@@ -1976,7 +2000,7 @@
       "employer": "University of Eastern Finland",
       "country": "Finland",
       "city": "Joensuu",
-      "posted_date": "2026-08-14",
+      "posted_date": "2026-08-13",
       "deadline": null,
       "description": "Part-time pre/postdoc researcher in Joensuu: study socio-cultural & policy frameworks for seaweed-based foods via media analysis, interviews & EU policy review; 25–60% up to 24 mo.",
       "url": "https://academicpositions.com/ad/university-of-eastern-finland/2026/project-researcher-pre-or-post-doctoral-level/251884",
