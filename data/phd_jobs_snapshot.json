@@ -1,6 +1,6 @@
 {
   "crawled_at": "2026-08-20",
-  "count": 199,
+  "count": 197,
   "jobs": [
     {
       "id": "251963",
@@ -1100,7 +1100,7 @@
       "employer": "Chalmers University of Technology",
       "country": "Sweden",
       "city": "Gothenburg",
-      "posted_date": "2026-08-14",
+      "posted_date": "2026-08-13",
       "deadline": null,
       "description": "Fully funded 2-year postdoc to design and run an independent, methodologically rigorous EMI research project; PhD in applied linguistics/education, strong publications and English.",
       "url": "https://academicpositions.com/ad/chalmers-university-of-technology/2026/postdoc-in-english-medium-instruction/251942",
@@ -1332,18 +1332,6 @@
       "deadline": null,
       "description": "Postdoc designing algorithms/models for DNA/RNA nanostructures, molecular-network imaging from sequencing, and DNA data storage & error correction. Creative computational PhD. Solna.",
       "url": "https://academicpositions.com/ad/karolinska-institutet/2026/postdoc-in-computational-molecular-programming-dna-nanotechnology-molecular-networks-and-dna-data-storage/251047",
-      "source": "academicpositions"
-    },
-    {
-      "id": "250903",
-      "title": "BEYOND - International Postdoctoral Program on Advanced Therapies",
-      "employer": "Fondazione Telethon ETS",
-      "country": "Sweden",
-      "city": "",
-      "posted_date": "2026-07-21",
-      "deadline": null,
-      "description": "35 funded 3‑year postdoc fellowships in Europe on Advanced Therapy Medicinal Products (ATMPs); interdisciplinary academia‑industry training. PhD, 4y postdoc, 1 paper, mobility required.",
-      "url": "https://academicpositions.com/ad/fondazione-telethon-ets/2026/beyond-international-postdoctoral-program-on-advanced-therapies/250903",
       "source": "academicpositions"
     },
     {
@@ -2377,18 +2365,6 @@
       "description": "Fully funded 3–6 month doctoral research posts in health & biosciences (2027). For healthcare professionals with Master’s and doctoral study right. Salary ~€2500–3200/mo.",
       "url": "https://academicpositions.com/ad/university-of-oulu/2026/multiple-short-term-doctoral-researcher-positions-in-health-and-biosciences/248584",
       "source": "academicpositions"
-    },
-    {
-      "id": "461018",
-      "title": "PhD Candidate in High-Frequency Wide-Bandgap Power Conversion Technologies",
-      "employer": "NTNU Norwegian University of Science and Technology",
-      "country": "Norway",
-      "city": null,
-      "posted_date": "2026-08-20",
-      "deadline": "2026-09-21",
-      "description": "This is NTNUNTNU is a broad-based university with a technical-scientific profile and a focus in professional education. The university is located in three cities with headquarters in Trondheim.At NTNU, 9,000 employees and 43,000 students work to create knowledge for a better world.You will find more...",
-      "url": "https://euraxess.ec.europa.eu/jobs/461018",
-      "source": "euraxess"
     }
   ]
 }
