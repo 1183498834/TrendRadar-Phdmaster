@@ -1,6 +1,6 @@
 {
   "crawled_at": "2026-08-20",
-  "count": 194,
+  "count": 200,
   "jobs": [
     {
       "id": "251963",
@@ -20,7 +20,7 @@
       "employer": "BI Norwegian Business School",
       "country": "Norway",
       "city": "Oslo",
-      "posted_date": "2026-08-14",
+      "posted_date": "2026-08-13",
       "deadline": null,
       "description": "4-year funded PhD on human-centered data governance, privacy & smart environments; focus on user/communication aspects. Based in Oslo with 25% teaching and international collaboration.",
       "url": "https://academicpositions.com/ad/bi-norwegian-business-school/2026/phd-candidate/251880",
@@ -984,6 +984,18 @@
       "deadline": null,
       "description": "The University of Gothenburg tackles society’s challenges with diverse knowledge. 58 000 students and 6800 employees make the university a large and inspiring place to work and study. Strong research and attractive study programmes attract researc...",
       "url": "https://academicpositions.com/ad/university-of-gothenburg/2026/phd-position-in-global-change-biology/252046",
+      "source": "academicpositions"
+    },
+    {
+      "id": "252055",
+      "title": "Postdoc in quantitative characterisation of multivalent binding",
+      "employer": "KTH Royal Institute of Technology",
+      "country": "Sweden",
+      "city": "Stockholm",
+      "posted_date": "2026-08-20",
+      "deadline": null,
+      "description": "Develop DNA-nanostructure assays to quantify multivalent binding in antibodies/therapeutics using qPCR/dPCR/sequencing readouts; interdisciplinary experimental+computational team.",
+      "url": "https://academicpositions.com/ad/kth-royal-institute-of-technology/2026/postdoc-in-quantitative-characterisation-of-multivalent-binding/252055",
       "source": "academicpositions"
     },
     {
@@ -2329,6 +2341,66 @@
       "description": "Fully funded 3–6 month doctoral research posts in health & biosciences (2027). For healthcare professionals with Master’s and doctoral study right. Salary ~€2500–3200/mo.",
       "url": "https://academicpositions.com/ad/university-of-oulu/2026/multiple-short-term-doctoral-researcher-positions-in-health-and-biosciences/248584",
       "source": "academicpositions"
+    },
+    {
+      "id": "460918",
+      "title": "PhD position in global change biology",
+      "employer": "Talentech",
+      "country": "Sweden",
+      "city": null,
+      "posted_date": "2026-08-20",
+      "deadline": "2026-09-21",
+      "description": "The University of Gothenburg tackles society’s challenges with diverse knowledge. 58 000 students and 6800 employees make the university a large and inspiring place to work and study. Strong research and attractive study programmes attract researchers and students from around the world. With new...",
+      "url": "https://euraxess.ec.europa.eu/jobs/460918",
+      "source": "euraxess"
+    },
+    {
+      "id": "460919",
+      "title": "PhD student in Materials Physics",
+      "employer": "Talentech",
+      "country": "Sweden",
+      "city": null,
+      "posted_date": "2026-08-20",
+      "deadline": "2026-09-30",
+      "description": "We have the power of over 50,000 students and co-workers. Students who provide hope for the future. Co-workers who contribute to Linköping University meeting challenges of today. Our fundamental values rest on credibility, trust and security. By having the courage to think freely and innovate, our...",
+      "url": "https://euraxess.ec.europa.eu/jobs/460919",
+      "source": "euraxess"
+    },
+    {
+      "id": "460920",
+      "title": "PhD position in global change biology",
+      "employer": "Talentech",
+      "country": "Sweden",
+      "city": null,
+      "posted_date": "2026-08-20",
+      "deadline": "2026-09-21",
+      "description": "The University of Gothenburg tackles society’s challenges with diverse knowledge. 58 000 students and 6800 employees make the university a large and inspiring place to work and study. Strong research and attractive study programmes attract researchers and students from around the world. With new...",
+      "url": "https://euraxess.ec.europa.eu/jobs/460920",
+      "source": "euraxess"
+    },
+    {
+      "id": "460923",
+      "title": "PhD in fast multi-scale electromagnetic modeling for RF systems",
+      "employer": "AcademicTransfer",
+      "country": "Netherlands",
+      "city": null,
+      "posted_date": "2026-08-20",
+      "deadline": "2026-09-19",
+      "description": "Are you our next PhD candidate eager to build fast and multi-scale electromagnetic techniques for analyzing state-of-the-art RF applications and systems? Are you interested in making RF system design possible in which even the small details can be readily incorporated into the electromagnetic model...",
+      "url": "https://euraxess.ec.europa.eu/jobs/460923",
+      "source": "euraxess"
+    },
+    {
+      "id": "460924",
+      "title": "Postdoc Position Data Science and Artificial Intelligence in Cardiac Electrophysiology",
+      "employer": "Maastricht University via AcademicTransfer",
+      "country": "Netherlands",
+      "city": null,
+      "posted_date": "2026-08-20",
+      "deadline": "2026-09-15",
+      "description": "Welcome to Maastricht University!You just finished your PhD trajectory and looking for the next step in your academic career? Your interests lie in the field of machine learning techniques, particularly artificial neural networks, and deep learning? And you would like to continue your research on...",
+      "url": "https://euraxess.ec.europa.eu/jobs/460924",
+      "source": "euraxess"
     }
   ]
 }
