@@ -1,6 +1,6 @@
 {
   "crawled_at": "2026-08-20",
-  "count": 196,
+  "count": 187,
   "jobs": [
     {
       "id": "251963",
@@ -591,30 +591,6 @@
       "source": "academicpositions"
     },
     {
-      "id": "251394",
-      "title": "Postdoc In Dynamic Modelling of Alkaline Water Electrolyzers",
-      "employer": "Eindhoven University of Technology",
-      "country": "Netherlands",
-      "city": "Eindhoven",
-      "posted_date": "2026-07-23",
-      "deadline": null,
-      "description": "Develop coupled dynamic model of alkaline water electrolyzer; predict KPIs & degradation, validate with EU partners/experiments, integrate system sims, supervise students. 2.5y full-time.",
-      "url": "https://academicpositions.com/ad/eindhoven-university-of-technology/2026/postdoc-in-dynamic-modelling-of-alkaline-water-electrolyzers/251394",
-      "source": "academicpositions"
-    },
-    {
-      "id": "251391",
-      "title": "PhD in Resilient Machine Learning and Formal Methods",
-      "employer": "Eindhoven University of Technology",
-      "country": "Netherlands",
-      "city": "Eindhoven",
-      "posted_date": "2026-07-21",
-      "deadline": null,
-      "description": "PhD research on resilient ML + formal verification: detect failures, self-correct online under distribution shift, with provable guarantees. MSc CS/Math/AI; Python/Rust; Eindhoven.",
-      "url": "https://academicpositions.com/ad/eindhoven-university-of-technology/2026/phd-in-resilient-machine-learning-and-formal-methods/251391",
-      "source": "academicpositions"
-    },
-    {
       "id": "251365",
       "title": "PhD on Computational growth and  remodeling of cartilage microtissues",
       "employer": "Eindhoven University of Technology",
@@ -660,18 +636,6 @@
       "deadline": null,
       "description": "4-year full-time PhD in Leiden studying genetic toxicodynamic variability using iPSCs, CRISPR and 3D organoids for next-gen safety testing; MSc in bio/biomed/biology needed.",
       "url": "https://academicpositions.com/ad/leiden-university/2026/phd-candidate-genetic-susceptibility-in-stem-cell-derived-organoid-safety-testing/251268",
-      "source": "academicpositions"
-    },
-    {
-      "id": "251256",
-      "title": "PhD position \"Synthetic Active Matter: Unravelling 3D Real-Space Dynamics\"",
-      "employer": "University of Twente",
-      "country": "Netherlands",
-      "city": "Enschede",
-      "posted_date": "2026-07-21",
-      "deadline": null,
-      "description": "4-year PhD: build 3D active-particle platform; fabricate light-driven microswimmers; analyze motion via optical microscopy/particle tracking; Python/MATLAB useful.",
-      "url": "https://academicpositions.com/ad/university-of-twente/2026/phd-position-synthetic-active-matter-unravelling-3d-real-space-dynamics/251256",
       "source": "academicpositions"
     },
     {
@@ -1263,18 +1227,6 @@
       "source": "academicpositions"
     },
     {
-      "id": "250992",
-      "title": "Postdoc in genomics",
-      "employer": "KTH Royal Institute of Technology",
-      "country": "Sweden",
-      "city": "Stockholm",
-      "posted_date": "2026-07-21",
-      "deadline": null,
-      "description": "Research gene regulatory variants, chromatin organization and transcription using cutting-edge genomics + computational biology. Requires PhD, lab genomics skills, large-scale data analysis.",
-      "url": "https://academicpositions.com/ad/kth-royal-institute-of-technology/2026/postdoc-in-genomics/250992",
-      "source": "academicpositions"
-    },
-    {
       "id": "250994",
       "title": "Postdoc in solid-state batteries – Precision manufacturing",
       "employer": "KTH Royal Institute of Technology",
@@ -1647,18 +1599,6 @@
       "source": "academicpositions"
     },
     {
-      "id": "250331",
-      "title": "Postdoc in AI-native Wireless Networks",
-      "employer": "KTH Royal Institute of Technology",
-      "country": "Sweden",
-      "city": "Stockholm",
-      "posted_date": "2026-07-21",
-      "deadline": null,
-      "description": "Full-time 2-year postdoc (Stockholm): AI-native wireless networks—develop theory/algorithms for AI-enhanced comms & semantic communications, AI-based optimization. PhD; strong pubs; LLM/RL plus.",
-      "url": "https://academicpositions.com/ad/kth-royal-institute-of-technology/2026/postdoc-in-ai-native-wireless-networks/250331",
-      "source": "academicpositions"
-    },
-    {
       "id": "250279",
       "title": "Postdoc in Modeling Large Scale Effects of Electrification of Powertrains in Road-based Freight",
       "employer": "Chalmers University of Technology",
@@ -1695,18 +1635,6 @@
       "source": "academicpositions"
     },
     {
-      "id": "250110",
-      "title": "Postdoc in Green Synthesis of Conjugated Polymers for Wearable Electronics",
-      "employer": "Chalmers University of Technology",
-      "country": "Sweden",
-      "city": "Gothenburg",
-      "posted_date": "2026-06-21",
-      "deadline": null,
-      "description": "Postdoc: green synthesis of conjugated polymers/OMIECs for wearable electronics; develop flow chemistry; polymer characterization (NMR, chromatography). PhD required.",
-      "url": "https://academicpositions.com/ad/chalmers-university-of-technology/2026/postdoc-in-green-synthesis-of-conjugated-polymers-for-wearable-electronics/250110",
-      "source": "academicpositions"
-    },
-    {
       "id": "250042",
       "title": "Doctoral students within Nanoscience and Light",
       "employer": "Chalmers University of Technology",
@@ -1716,18 +1644,6 @@
       "deadline": null,
       "description": "Fully funded PhD (up to 5) in Nano+Light (nanophotonics, quantum/nonlinear optics, plasmonics, imaging, integrated photonics). MSc in sci/eng; English.",
       "url": "https://academicpositions.com/ad/chalmers-university-of-technology/2026/doctoral-students-within-nanoscience-and-light/250042",
-      "source": "academicpositions"
-    },
-    {
-      "id": "250040",
-      "title": "Doctoral Student in Sustainable Photocatalysis for Plastic Upcycling",
-      "employer": "Chalmers University of Technology",
-      "country": "Sweden",
-      "city": "Gothenburg",
-      "posted_date": "2026-06-21",
-      "deadline": null,
-      "description": "Fully funded 4-year PhD: develop photocatalysts to upcycle plastic waste using solar energy; synthesize/characterize materials, run batch/flow reactors, advanced analytics, EU collaboration.",
-      "url": "https://academicpositions.com/ad/chalmers-university-of-technology/2026/doctoral-student-in-sustainable-photocatalysis-for-plastic-upcycling/250040",
       "source": "academicpositions"
     },
     {
@@ -1755,18 +1671,6 @@
       "source": "academicpositions"
     },
     {
-      "id": "249923",
-      "title": "Postdoc in Stochastic PDEs for Transport Networks",
-      "employer": "Chalmers University of Technology",
-      "country": "Sweden",
-      "city": "Gothenburg",
-      "posted_date": "2026-06-21",
-      "deadline": null,
-      "description": "2-year postdoc in PRONTO: model public transport networks via stochastic PDEs. Interdisciplinary applied math/control/data science; publish and present, optional teaching.",
-      "url": "https://academicpositions.com/ad/chalmers-university-of-technology/2026/postdoc-in-stochastic-pdes-for-transport-networks/249923",
-      "source": "academicpositions"
-    },
-    {
       "id": "249849",
       "title": "Doctoral Studentship Employment in Resource Recovery with a Specialisation in Resource Management",
       "employer": "University of Borås",
@@ -1788,18 +1692,6 @@
       "deadline": null,
       "description": "MSCA COFUND: ~5 fully funded 36‑month postdoc fellowships in multiscale biological imaging (biomedical imaging, lipids, protein structure, molecular interactions) across Europe.",
       "url": "https://academicpositions.com/ad/amber-project/2026/amber-final-postdoc-fellowship-call/249828",
-      "source": "academicpositions"
-    },
-    {
-      "id": "249731",
-      "title": "Postdoc in AI-driven road network performance prediction and maintenance.",
-      "employer": "KTH Royal Institute of Technology",
-      "country": "Sweden",
-      "city": "Stockholm",
-      "posted_date": "2026-06-21",
-      "deadline": null,
-      "description": "Research postdoc developing ML models to predict pavement deterioration and plan maintenance using traffic, condition, climate data. PhD + Python/R; transport data a plus.",
-      "url": "https://academicpositions.com/ad/kth-royal-institute-of-technology/2026/postdoc-in-ai-driven-road-network-performance-prediction-and-maintenance/249731",
       "source": "academicpositions"
     },
     {
