@@ -1,6 +1,6 @@
 {
   "crawled_at": "2026-08-20",
-  "count": 201,
+  "count": 199,
   "jobs": [
     {
       "id": "251963",
@@ -560,7 +560,7 @@
       "employer": "Radboud University",
       "country": "Netherlands",
       "city": "Nijmegen",
-      "posted_date": "2026-07-23",
+      "posted_date": "2026-07-21",
       "deadline": null,
       "description": "Funded PhD in culture & history: 0.8–1.0 FTE, €3,059–€3,881/month. 75% research thesis, 25% training/teaching. Master’s in relevant field required.",
       "url": "https://academicpositions.com/ad/radboud-university/2026/phd-position-at-the-radboud-institute-for-culture-and-history/251376",
@@ -572,7 +572,7 @@
       "employer": "Radboud University",
       "country": "Netherlands",
       "city": "Nijmegen",
-      "posted_date": "2026-07-23",
+      "posted_date": "2026-07-21",
       "deadline": null,
       "description": "PhD research on cognitive & social processes in language at CLS; 75% thesis research, 25% teaching/training. 0.8–1.0 FTE, €3,059–€3,881/month.",
       "url": "https://academicpositions.com/ad/radboud-university/2026/phd-position-at-the-centre-for-language-studies/251375",
@@ -1940,7 +1940,7 @@
       "employer": "Tampere University",
       "country": "Finland",
       "city": "Tampere",
-      "posted_date": "2026-08-18",
+      "posted_date": "2026-08-17",
       "deadline": null,
       "description": "1–2 PhD researcher posts (literary studies/history) on early modern poetry, rhetoric & nature. Fixed-term up to 4y from Jan 2027; salary from ~€2,700/mo; Finland-based.",
       "url": "https://academicpositions.com/ad/tampere-university/2026/1-2-doctoral-researchers-in-literary-studies-or-history-1-2-the-verses-of-learning-epideixis-and-the-cultural-stories-of-nature-at-early-modern-universities-versitas-project/251985",
@@ -2388,30 +2388,6 @@
       "deadline": "2026-09-21",
       "description": "The University of Gothenburg tackles society’s challenges with diverse knowledge. 58 000 students and 6800 employees make the university a large and inspiring place to work and study. Strong research and attractive study programmes attract researchers and students from around the world. With new...",
       "url": "https://euraxess.ec.europa.eu/jobs/460920",
-      "source": "euraxess"
-    },
-    {
-      "id": "460923",
-      "title": "PhD in fast multi-scale electromagnetic modeling for RF systems",
-      "employer": "AcademicTransfer",
-      "country": "Netherlands",
-      "city": null,
-      "posted_date": "2026-08-20",
-      "deadline": "2026-09-19",
-      "description": "Are you our next PhD candidate eager to build fast and multi-scale electromagnetic techniques for analyzing state-of-the-art RF applications and systems? Are you interested in making RF system design possible in which even the small details can be readily incorporated into the electromagnetic model...",
-      "url": "https://euraxess.ec.europa.eu/jobs/460923",
-      "source": "euraxess"
-    },
-    {
-      "id": "460924",
-      "title": "Postdoc Position Data Science and Artificial Intelligence in Cardiac Electrophysiology",
-      "employer": "Maastricht University via AcademicTransfer",
-      "country": "Netherlands",
-      "city": null,
-      "posted_date": "2026-08-20",
-      "deadline": "2026-09-15",
-      "description": "Welcome to Maastricht University!You just finished your PhD trajectory and looking for the next step in your academic career? Your interests lie in the field of machine learning techniques, particularly artificial neural networks, and deep learning? And you would like to continue your research on...",
-      "url": "https://euraxess.ec.europa.eu/jobs/460924",
       "source": "euraxess"
     }
   ]
