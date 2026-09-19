@@ -27,7 +27,7 @@ def fetch_phd_jobs(cfg):
     Returns:
         去重并按类型过滤后的职位列表
     """
-    countries = cfg.get("countries") or cfg.get("COUNTRIES") or ["Norway", "Netherlands", "Sweden"]
+    countries = cfg.get("countries") or cfg.get("COUNTRIES") or ["Norway", "Netherlands", "Sweden", "Finland", "Denmark", "Italy"]
     max_pages = int(cfg.get("max_pages") or cfg.get("MAX_PAGES") or 3)
     interval = int(cfg.get("request_interval_ms") or cfg.get("REQUEST_INTERVAL_MS") or 800)
     position_types = cfg.get("position_types") or cfg.get("POSITION_TYPES") or None

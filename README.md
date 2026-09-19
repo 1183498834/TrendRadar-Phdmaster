@@ -4,7 +4,7 @@
 
 </div>
 
-> 基于 [TrendRadar](https://github.com/sansan0/TrendRadar) 的定制版本，专注于收集**北欧岗位制博士（PhD）职位**信息。
+> 基于 [TrendRadar](https://github.com/sansan0/TrendRadar) 的定制版本，专注于收集**欧洲岗位制博士（PhD）职位**信息。
 
 <div align="center">
 
@@ -18,7 +18,7 @@
 
 ## 🎓 PhD 职位收集（本项目核心）
 
-本项目在原 TrendRadar 基础上新增了 PhD 职位抓取模块，专门收集北欧国家的岗位制博士（PhD）、博士后（Postdoc）职位，并通过飞书 / 钉钉 / Telegram / 邮件等渠道推送。
+本项目在原 TrendRadar 基础上新增了 PhD 职位抓取模块，专门收集欧洲国家的岗位制博士（PhD）、博士后（Postdoc）职位，并通过飞书 / 钉钉 / Telegram / 邮件等渠道推送。
 
 ### 抓取哪些数据源？
 
@@ -29,7 +29,7 @@
 | [Academic Positions](https://academicpositions.com) | 欧洲学术职位聚合站 | 需 `cloudscraper` 绕过 Cloudflare |
 | [EURAXESS](https://euraxess.ec.europa.eu) | 欧盟官方职位库 | 普通 HTTP 请求，无需绕过 |
 
-默认抓取以下 4 个北欧国家的职位：挪威（Norway）、荷兰（Netherlands）、瑞典（Sweden）、芬兰（Finland）。
+默认抓取以下 6 个欧洲国家的职位：挪威（Norway）、荷兰（Netherlands）、瑞典（Sweden）、芬兰（Finland）、丹麦（Denmark）、意大利（Italy）。
 
 抓到的职位会按标题关键词自动分类（PhD / Postdoc / Doctoral）、去重，并与仓库内 `data/phd_jobs_snapshot.json` 做增量对比，只推送**新增**职位，避免重复打扰。快照由 GitHub Actions 每次运行后自动提交回仓库，实现跨运行的增量基准持久化。
 
@@ -82,16 +82,16 @@ phd_jobs:
       euraxess_id: 768              # EURAXESS 的国家 taxonomy ID
       academicpositions_slug: norway
     # ... 其他已有国家 ...
-    Denmark:                        # ← 新增国家
-      euraxess_id: 757              # 获取方式见下方说明
-      academicpositions_slug: denmark
+    Germany:                        # ← 新增国家
+      euraxess_id: 794              # 获取方式见下方说明
+      academicpositions_slug: germany
 ```
 
 **第 2 处：`trendradar/core/loader.py`** —— 国家白名单是硬编码的，必须把新国家加入元组，否则会被静默丢弃：
 
 ```python
 "COUNTRIES": [
-    c for c in ("Norway", "Netherlands", "Sweden", "Finland", "Denmark") if c in countries
+    c for c in ("Norway", "Netherlands", "Sweden", "Finland", "Denmark", "Italy", "Germany") if c in countries
 ] or list(countries.keys()),
 ```
 
@@ -103,7 +103,9 @@ EURAXXESS_COUNTRY_IDS = {
     "Netherlands": 798,
     "Sweden": 770,
     "Finland": 760,
-    "Denmark": 757,        # ← 新增
+    "Denmark": 757,
+    "Italy": 781,
+    "Germany": 794,        # ← 新增
 }
 
 ACADEMICPOSITIONS_COUNTRY_SLUGS = {
@@ -111,7 +113,9 @@ ACADEMICPOSITIONS_COUNTRY_SLUGS = {
     "Netherlands": "netherlands",
     "Sweden": "sweden",
     "Finland": "finland",
-    "Denmark": "denmark",  # ← 新增
+    "Denmark": "denmark",
+    "Italy": "italy",
+    "Germany": "germany",  # ← 新增
 }
 ```
 
@@ -123,7 +127,9 @@ COUNTRY_FLAGS = {
     "Netherlands": "🇳🇱 Netherlands",
     "Sweden": "🇸🇪 Sweden",
     "Finland": "🇫🇮 Finland",
-    "Denmark": "🇩🇰 Denmark",  # ← 新增
+    "Denmark": "🇩🇰 Denmark",
+    "Italy": "🇮🇹 Italy",
+    "Germany": "🇩🇪 Germany",  # ← 新增
 }
 ```
 
@@ -141,6 +147,7 @@ COUNTRY_FLAGS = {
 | Sweden | 770 |
 | Finland | 760 |
 | Denmark | 757 |
+| Italy | 781 |
 | Germany | 794 |
 | France | 793 |
 | Iceland | 762 |

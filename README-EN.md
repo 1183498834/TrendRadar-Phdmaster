@@ -4,7 +4,7 @@
 
 </div>
 
-> A customized fork of [TrendRadar](https://github.com/sansan0/TrendRadar), focused on collecting **salaried PhD positions in Northern Europe**.
+> A customized fork of [TrendRadar](https://github.com/sansan0/TrendRadar), focused on collecting **salaried PhD positions in Europe**.
 
 <div align="center">
 
@@ -18,7 +18,7 @@ This project is a fork of [TrendRadar](https://github.com/sansan0/TrendRadar) by
 
 ## 🎓 PhD Position Collection (core of this project)
 
-This project adds a PhD position crawler to the original TrendRadar, collecting salaried PhD and Postdoc positions in Northern European countries, and pushing them via Feishu / DingTalk / Telegram / Email and other channels.
+This project adds a PhD position crawler to the original TrendRadar, collecting salaried PhD and Postdoc positions in European countries, and pushing them via Feishu / DingTalk / Telegram / Email and other channels.
 
 ### Which data sources are crawled?
 
@@ -29,7 +29,7 @@ Positions come from two sources:
 | [Academic Positions](https://academicpositions.com) | European academic job aggregator | Requires `cloudscraper` to bypass Cloudflare |
 | [EURAXESS](https://euraxess.ec.europa.eu) | Official EU job portal | Plain HTTP requests, no bypass needed |
 
-By default it crawls positions in 4 Nordic countries: Norway, Netherlands, Sweden, and Finland.
+By default it crawls positions in 6 European countries: Norway, Netherlands, Sweden, Finland, Denmark, and Italy.
 
 Crawled positions are classified by title keywords (PhD / Postdoc / Doctoral), deduplicated, and compared incrementally against `data/phd_jobs_snapshot.json` in the repo, so only **new** positions are pushed to avoid repeated notifications. The snapshot is committed back to the repo by GitHub Actions after each run, persisting the incremental baseline across runs.
 
@@ -82,16 +82,16 @@ phd_jobs:
       euraxess_id: 768              # EURAXESS country taxonomy ID
       academicpositions_slug: norway
     # ... other existing countries ...
-    Denmark:                        # ← new country
-      euraxess_id: 757              # see below for how to obtain
-      academicpositions_slug: denmark
+    Germany:                        # ← new country
+      euraxess_id: 794              # see below for how to obtain
+      academicpositions_slug: germany
 ```
 
 **Place 2: `trendradar/core/loader.py`** — the country whitelist is hardcoded; you must add the new country to the tuple, otherwise it is silently dropped:
 
 ```python
 "COUNTRIES": [
-    c for c in ("Norway", "Netherlands", "Sweden", "Finland", "Denmark") if c in countries
+    c for c in ("Norway", "Netherlands", "Sweden", "Finland", "Denmark", "Italy", "Germany") if c in countries
 ] or list(countries.keys()),
 ```
 
@@ -103,7 +103,9 @@ EURAXXESS_COUNTRY_IDS = {
     "Netherlands": 798,
     "Sweden": 770,
     "Finland": 760,
-    "Denmark": 757,        # ← new
+    "Denmark": 757,
+    "Italy": 781,
+    "Germany": 794,        # ← new
 }
 
 ACADEMICPOSITIONS_COUNTRY_SLUGS = {
@@ -111,7 +113,9 @@ ACADEMICPOSITIONS_COUNTRY_SLUGS = {
     "Netherlands": "netherlands",
     "Sweden": "sweden",
     "Finland": "finland",
-    "Denmark": "denmark",  # ← new
+    "Denmark": "denmark",
+    "Italy": "italy",
+    "Germany": "germany",  # ← new
 }
 ```
 
@@ -123,7 +127,9 @@ COUNTRY_FLAGS = {
     "Netherlands": "🇳🇱 Netherlands",
     "Sweden": "🇸🇪 Sweden",
     "Finland": "🇫🇮 Finland",
-    "Denmark": "🇩🇰 Denmark",  # ← new
+    "Denmark": "🇩🇰 Denmark",
+    "Italy": "🇮🇹 Italy",
+    "Germany": "🇩🇪 Germany",  # ← new
 }
 ```
 
@@ -141,6 +147,7 @@ Verified EURAXESS country IDs (obtain others with the method above):
 | Sweden | 770 |
 | Finland | 760 |
 | Denmark | 757 |
+| Italy | 781 |
 | Germany | 794 |
 | France | 793 |
 | Iceland | 762 |

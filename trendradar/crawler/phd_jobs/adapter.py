@@ -13,6 +13,8 @@ COUNTRY_FLAGS = {
     "Netherlands": "🇳🇱 Netherlands",
     "Sweden": "🇸🇪 Sweden",
     "Finland": "🇫🇮 Finland",
+    "Denmark": "🇩🇰 Denmark",
+    "Italy": "🇮🇹 Italy",
 }
 
 POSITION_LABELS = {

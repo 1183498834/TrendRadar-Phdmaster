@@ -135,6 +135,12 @@ def fetch_jobs(countries=None, max_pages=3, request_interval_ms=800):
             )
             try:
                 resp = session.get(url, timeout=30)
+                if resp.status_code == 404:
+                    print(
+                        f"  [phd] academicpositions {country} 第{page}页 "
+                        f"HTTP 404,当前无职位,结束分页"
+                    )
+                    break
                 if resp.status_code != 200:
                     print(
                         f"  [phd] academicpositions {country} 第{page}页 "

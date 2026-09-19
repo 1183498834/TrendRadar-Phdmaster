@@ -1757,7 +1757,7 @@ class NewsAnalyzer:
         """为邮件渠道生成 HTML 报告,返回文件路径。"""
         try:
             from trendradar.crawler.phd_jobs import build_standalone
-            countries = phd_cfg.get("COUNTRIES") or ["Norway", "Netherlands", "Sweden"]
+            countries = phd_cfg.get("COUNTRIES") or ["Norway", "Netherlands", "Sweden", "Finland", "Denmark", "Italy"]
             standalone = build_standalone(jobs, countries)
 
             html_content = self.ctx.render_html(

@@ -150,9 +150,9 @@ rss:
 
 
 # ===============================================================
-# 3.5 数据源 - PhD 职位(北欧岗位制博士)
+# 3.5 数据源 - PhD 职位(欧洲岗位制博士)
 #
-# 抓取挪威/荷兰/瑞典的岗位制博士职位,推送时以"独立展示区"呈现。
+# 抓取挪威/荷兰/瑞典/芬兰/丹麦/意大利的岗位制博士职位,推送时以"独立展示区"呈现。
 # 数据源:
 #   - academicpositions.com(需 cloudscraper 绕过 Cloudflare)
 #   - euraxess.ec.europa.eu(欧盟官方职位库)
@@ -195,6 +195,12 @@ phd_jobs:
     Finland:
       euraxess_id: 760
       academicpositions_slug: finland
+    Denmark:
+      euraxess_id: 757
+      academicpositions_slug: denmark
+    Italy:
+      euraxess_id: 781
+      academicpositions_slug: italy
 
   snapshot:
     path: "data/phd_jobs_snapshot.json"   # 增量对比基准（跨运行持久化）
