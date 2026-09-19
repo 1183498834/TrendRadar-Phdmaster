@@ -1,6 +1,6 @@
 {
   "crawled_at": "2026-09-19",
-  "count": 228,
+  "count": 229,
   "jobs": [
     {
       "id": "253161",
@@ -2736,6 +2736,18 @@
       "deadline": null,
       "description": "PhD research on metal-loaded slow liquid scintillators for 0νββ: synthesize samples, measure spectra/decay via TCSPC, test stability, compile parameters for Geant4/ML; 3.5 yrs.",
       "url": "https://academicpositions.com/ad/university-of-jyvaskyla/2026/doctoral-researcher-in-optical-and-chemical-characterization-of-slow-liquid-scintillators-for-neutrinoless-double-beta-decay-and-rare-event-searches/251705",
+      "source": "academicpositions"
+    },
+    {
+      "id": "252262",
+      "title": "Max Weber Postdoctoral Fellowships",
+      "employer": "European University Institute (EUI)",
+      "country": "Italy",
+      "city": "Florence",
+      "posted_date": "2026-08-29",
+      "deadline": null,
+      "description": "Fully funded multidisciplinary postdoc fellowships in Florence for economics, history, law, and political/social sciences. Applicants within 5 years of PhD; ~40 fellows/year.",
+      "url": "https://academicpositions.com/ad/european-university-institute-eui/2026/max-weber-postdoctoral-fellowships/252262",
       "source": "academicpositions"
     }
   ]
