@@ -1,29 +1,17 @@
 {
-  "crawled_at": "2026-09-26",
-  "count": 2,
+  "crawled_at": "2026-09-27",
+  "count": 1,
   "jobs": [
     {
-      "id": "468394",
-      "title": "PhD fellowship in chromatin and computational biolog (ref 308656)",
-      "employer": "University of Oslo",
-      "country": "Norway",
+      "id": "468448",
+      "title": "Postdoctoral position in advanced structural analysis and electrochemical applications of carbon materials",
+      "employer": "Uppsala Universitet via MyNetwork",
+      "country": "Sweden",
       "city": null,
-      "posted_date": "2026-09-25",
-      "deadline": "2026-10-16",
-      "description": "You will be expected to carry out wet-lab 3D genomics experiments and analyze data in the context of additional datasets (RNA-seq, ChIP-seq, ATAC-seq, protein interactome, etc.) to investigate the impact of lamin mutations on spatial genome organization in lipodystrophy patient-derived cells. You...",
-      "url": "https://euraxess.ec.europa.eu/jobs/468394",
-      "source": "euraxess"
-    },
-    {
-      "id": "468382",
-      "title": "PhD position in Greenland Paleoceanography and Ice Sheet Melt",
-      "employer": "Geological Survey of Denmark and Greenland (GEUS)",
-      "country": "Denmark",
-      "city": null,
-      "posted_date": "2026-09-25",
-      "deadline": "2026-10-18",
-      "description": "Are you interested in how the Greenland Ice Sheet and surrounding ocean have changed in the past, and what this can tell us about their response to a warming climate? We are looking for a PhD fellow to reconstruct past changes in Greenland Ice Sheet melt and ocean conditions using marine sediment...",
-      "url": "https://euraxess.ec.europa.eu/jobs/468382",
+      "posted_date": "2026-09-26",
+      "deadline": "2026-10-26",
+      "description": "The Department of Chemistry - Ångström conducts research and education in the chemistry field. The department has more than 270 employees and has a turnover of 300 million SEK. At the department's six programs, we conduct very successful research of a high international standard. We have a large...",
+      "url": "https://euraxess.ec.europa.eu/jobs/468448",
       "source": "euraxess"
     }
   ]
