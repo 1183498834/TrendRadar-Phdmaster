@@ -1,17 +1,65 @@
 {
-  "crawled_at": "2026-09-27",
-  "count": 1,
+  "crawled_at": "2026-09-28",
+  "count": 5,
   "jobs": [
     {
-      "id": "468448",
-      "title": "Postdoctoral position in advanced structural analysis and electrochemical applications of carbon materials",
-      "employer": "Uppsala Universitet via MyNetwork",
+      "id": "468723",
+      "title": "Postdoctoral studies in in single-cell and computational biology  (scholarship)",
+      "employer": "Karolinska Institutet via Varbi",
       "country": "Sweden",
       "city": null,
-      "posted_date": "2026-09-26",
+      "posted_date": "2026-09-27",
       "deadline": "2026-10-26",
-      "description": "The Department of Chemistry - Ångström conducts research and education in the chemistry field. The department has more than 270 employees and has a turnover of 300 million SEK. At the department's six programs, we conduct very successful research of a high international standard. We have a large...",
-      "url": "https://euraxess.ec.europa.eu/jobs/468448",
+      "description": "Postdoctoral studies single-cell and computational biology (scholarship)Do you want to contribute to better health for all?A postdoctoral position is available in the laboratory of Saida Hadjab at the Department of Neuroscience, Karolinska Institutet, to investigate the molecular landscape of...",
+      "url": "https://euraxess.ec.europa.eu/jobs/468723",
+      "source": "euraxess"
+    },
+    {
+      "id": "468724",
+      "title": "Postdoctoral Researcher, Gene regulation and Single cell genomics",
+      "employer": "Ita-Suomenyliopisto",
+      "country": "Finland",
+      "city": null,
+      "posted_date": "2026-09-27",
+      "deadline": "2026-10-12",
+      "description": "The University of Eastern Finland is inviting applications for a Postdoctoral Researcher position in the field of Gene regulation and Single cell genomics. The position is hosted by the School of Medicine at the Faculty of Health Sciences and located on the Kuopio Campus. The position will be filled...",
+      "url": "https://euraxess.ec.europa.eu/jobs/468724",
+      "source": "euraxess"
+    },
+    {
+      "id": "468726",
+      "title": "Postdoc position in Human-Centred Artificial Intelligence - HCC",
+      "employer": "Aalborg Universitet",
+      "country": "Denmark",
+      "city": null,
+      "posted_date": "2026-09-27",
+      "deadline": "2026-11-13",
+      "description": "Postdoc position in Human-Centred Artificial IntelligenceThe Department of Computer Science at Aalborg University invites applications for a postdoc position working with Professor Niels van Berkel. The earliest starting date for this position is 1st of January 2027.The project: Safeguarding Users’...",
+      "url": "https://euraxess.ec.europa.eu/jobs/468726",
+      "source": "euraxess"
+    },
+    {
+      "id": "468727",
+      "title": "Doctoral student in traffic safety focusing on data analysis and traffic simulation",
+      "employer": "Lund University via MyNetwork",
+      "country": "Sweden",
+      "city": null,
+      "posted_date": "2026-09-27",
+      "deadline": "2026-10-16",
+      "description": "Description of the workplaceTransport and Roads offer a unique and open environment for advanced research on traffic safety and behaviour. The group counts five senior researchers (postdocs and senior lecturers) and two PhD students. On the availability of the group, there is a traffic simulation...",
+      "url": "https://euraxess.ec.europa.eu/jobs/468727",
+      "source": "euraxess"
+    },
+    {
+      "id": "468730",
+      "title": "PhD position in Dermatology",
+      "employer": "Lund University via MyNetwork",
+      "country": "Sweden",
+      "city": null,
+      "posted_date": "2026-09-27",
+      "deadline": "2026-10-16",
+      "description": "Description of the WorkplaceThe PhD project will be conducted within the field of peptidomics. The research group is based at the Biomedical Centre (BMC), Division of Dermatology and Venereology, Department of Clinical Sciences Lund, Lund University, and conducts translational research on how innate...",
+      "url": "https://euraxess.ec.europa.eu/jobs/468730",
       "source": "euraxess"
     }
   ]
