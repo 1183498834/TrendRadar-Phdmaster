@@ -1,29 +1,41 @@
 {
-  "crawled_at": "2026-10-07",
-  "count": 2,
+  "crawled_at": "2026-10-09",
+  "count": 3,
   "jobs": [
     {
-      "id": "470897",
-      "title": "Postdoctor position available to study carbon assimilation in trees",
+      "id": "471625",
+      "title": "Postdoctor in Political Science: Transitional Justice, Victimhood, and Survey Experiments (BIG PEACE)",
       "employer": "Talentech",
       "country": "Sweden",
       "city": null,
-      "posted_date": "2026-10-07",
-      "deadline": "2026-10-21",
-      "description": "Department of Forest Genetics and Plant Physiology The Department of forest genetics and plant physiology is part of Umeå Plant Science Centre (UPSC, https://www.upsc.se ) which is a centre of excellence for experimental plant research and forest biotechnology in Northern Sweden. Our mission is to...",
-      "url": "https://euraxess.ec.europa.eu/jobs/470897",
+      "posted_date": "2026-10-09",
+      "deadline": "2026-11-19",
+      "description": "The University of Gothenburg tackles society’s challenges with diverse knowledge. 58 000 students and 6800 employees make the university a large and inspiring place to work and study. Strong research and attractive study programmes attract researchers and students from around the world. With new...",
+      "url": "https://euraxess.ec.europa.eu/jobs/471625",
       "source": "euraxess"
     },
     {
-      "id": "470898",
-      "title": "Postdoc position in Robotics and Artificial Intelligence",
-      "employer": "Lulea University of Technology",
+      "id": "471628",
+      "title": "Postdoctoral Fellow in Political Science",
+      "employer": "Talentech",
       "country": "Sweden",
       "city": null,
-      "posted_date": "2026-10-07",
-      "deadline": "2026-11-15",
-      "description": "Do you want to develop your research and teaching in an environment where collaboration with industry and society is a natural part of the work? With us, you will collaborate with dedicated colleagues, have access to modern research infrastructure, and enjoy strong opportunities to attract external...",
-      "url": "https://euraxess.ec.europa.eu/jobs/470898",
+      "posted_date": "2026-10-09",
+      "deadline": "2026-11-19",
+      "description": "The University of Gothenburg tackles society’s challenges with diverse knowledge. 58 000 students and 6800 employees make the university a large and inspiring place to work and study. Strong research and attractive study programmes attract researchers and students from around the world. With new...",
+      "url": "https://euraxess.ec.europa.eu/jobs/471628",
+      "source": "euraxess"
+    },
+    {
+      "id": "471629",
+      "title": "Postdoctoral Fellow in Political Science",
+      "employer": "Talentech",
+      "country": "Sweden",
+      "city": null,
+      "posted_date": "2026-10-09",
+      "deadline": "2026-11-19",
+      "description": "The University of Gothenburg tackles society’s challenges with diverse knowledge. 58 000 students and 6800 employees make the university a large and inspiring place to work and study. Strong research and attractive study programmes attract researchers and students from around the world. With new...",
+      "url": "https://euraxess.ec.europa.eu/jobs/471629",
       "source": "euraxess"
     }
   ]
