@@ -1,29 +1,41 @@
 {
-  "crawled_at": "2026-10-13",
-  "count": 2,
+  "crawled_at": "2026-10-17",
+  "count": 3,
   "jobs": [
     {
-      "id": "472209",
-      "title": "PhD student in agricultural bioeconomy systems",
+      "id": "473477",
+      "title": "Postdoc position in heterogeneous catalysis",
       "employer": "Talentech",
       "country": "Sweden",
       "city": null,
-      "posted_date": "2026-10-13",
-      "deadline": "2026-11-27",
-      "description": "Department of Biosystems and Technology PhD project: Sustainable utilisation of agricultural green biomass in integrated protein and biogas systems Subject area: Technology Description of the doctoral project A circular and fossil-independent bioeconomy requires renewable biomass without increasing...",
-      "url": "https://euraxess.ec.europa.eu/jobs/472209",
+      "posted_date": "2026-10-17",
+      "deadline": "2026-11-23",
+      "description": "Heterogeneous catalysts are needed to make things like fertilizers, medicines, foods, fuels, and plastics. We need them for most of our products. In the Catalysis and Self-Assembly Group at Linköping University, we develop fundamental concepts and new processes to make heterogeneous catalysts more...",
+      "url": "https://euraxess.ec.europa.eu/jobs/473477",
       "source": "euraxess"
     },
     {
-      "id": "472213",
-      "title": "PhD candidate – Merit Project",
-      "employer": "AcademicTransfer",
-      "country": "Netherlands",
+      "id": "473478",
+      "title": "PhD position in Electrical Engineering with Specialization in Signal Processing",
+      "employer": "Uppsala Universitet via MyNetwork",
+      "country": "Sweden",
       "city": null,
-      "posted_date": "2026-10-13",
-      "deadline": "2026-10-30",
-      "description": "At the Leiden University Medical Center (LUMC), MERIT is looking for a doctoral candidate to work on Work Packages 1 and 2. As DC11, you will investigate how viral infections affect lipid biosynthetic pathways and explore the therapeutic targeting of lipid metabolism for controlling virus-induced...",
-      "url": "https://euraxess.ec.europa.eu/jobs/472213",
+      "posted_date": "2026-10-17",
+      "deadline": "2026-11-30",
+      "description": "Electrification and digitalisation are among the largest areas for the future in the conversion to sustainable societies. The Department of Electrical Engineering conducts successful research and education in the areas - renewable energy sources, electric vehicles, industrial IoT, 6G communication...",
+      "url": "https://euraxess.ec.europa.eu/jobs/473478",
+      "source": "euraxess"
+    },
+    {
+      "id": "473436",
+      "title": "Call for applications for 2 places reserved for employees of partner companies and other entities for admission to the industrial PhD programme pursuant to Article 10 of Ministerial Decree 226/2021, “",
+      "employer": "Università degli Studi di Milano",
+      "country": "Italy",
+      "city": null,
+      "posted_date": "2026-10-16",
+      "deadline": "2026-11-16",
+      "description": "Two places have become available at the University of Milan for the 2026/2027 academic year (42nd cycle – beginning on 1 January 2027), reserved for employees of partner companies and other entities for the industrial PhD programme ‘Intersectoral Innovation: an intersectoral PhD programme for...",
+      "url": "https://euraxess.ec.europa.eu/jobs/473436",
       "source": "euraxess"
     }
   ]
