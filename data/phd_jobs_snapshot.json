@@ -1,53 +1,17 @@
 {
-  "crawled_at": "2026-10-19",
-  "count": 4,
+  "crawled_at": "2026-10-21",
+  "count": 1,
   "jobs": [
     {
-      "id": "473774",
-      "title": "Postdoctoral studies in microbiome and bacterial infections(scholarship)",
-      "employer": "Karolinska Institutet via Varbi",
-      "country": "Sweden",
+      "id": "474271",
+      "title": "PhD Fellow in Marine Molecular Ecology",
+      "employer": "UiT The Arctic University of Norway",
+      "country": "Norway",
       "city": null,
-      "posted_date": "2026-10-18",
-      "deadline": "2026-11-06",
-      "description": "Do you want to contribute to top quality medical research?The department of Medicine, Huddinge, is looking for a Postdoctoral fellow who will be financed by a scholarship to join Dr. Shilpa Ray’s team, part of Anders Sönnerborg’s research group, at the Centrum for Infectious Medicine (CIM), subunit...",
-      "url": "https://euraxess.ec.europa.eu/jobs/473774",
-      "source": "euraxess"
-    },
-    {
-      "id": "473780",
-      "title": "PhD in In-Operando Diagnostics of Li-ion and Post-Li-ion Batteries Using Acoustic Technology",
-      "employer": "Aalborg Universitet",
-      "country": "Denmark",
-      "city": null,
-      "posted_date": "2026-10-18",
-      "deadline": "2026-10-30",
-      "description": "At AAU Energy, a PhD stipend position is available within the general study program. The stipend is open for appointment from 15 November 2026 or soon hereafter. The duration of the position is three years.Your work tasksBattery performance assessment and diagnostics rely today on standardised...",
-      "url": "https://euraxess.ec.europa.eu/jobs/473780",
-      "source": "euraxess"
-    },
-    {
-      "id": "473781",
-      "title": "PhD in Quantum Computing for Power Systems",
-      "employer": "Aalborg Universitet",
-      "country": "Denmark",
-      "city": null,
-      "posted_date": "2026-10-18",
-      "deadline": "2026-10-30",
-      "description": "At AAU Energy, a position as PhD stipend is available within the general study program. The stipend is open for appointment from December 1, 2026, or as soon hereafter. The duration of the position is three years.Your work tasksThis PhD position focuses on the application of quantum computing to...",
-      "url": "https://euraxess.ec.europa.eu/jobs/473781",
-      "source": "euraxess"
-    },
-    {
-      "id": "473782",
-      "title": "Postdoc experienced in electrochemistry research",
-      "employer": "Lund University via MyNetwork",
-      "country": "Sweden",
-      "city": null,
-      "posted_date": "2026-10-18",
-      "deadline": "2026-11-08",
-      "description": "MAX IV is looking for a Postdoc experienced in electrochemistry research. The focus will be to document experimental designs and procedures that give reliable and reproducible results, transferrable between research facilities in Europe. Two to three reaction cells based on the most promising...",
-      "url": "https://euraxess.ec.europa.eu/jobs/473782",
+      "posted_date": "2026-10-20",
+      "deadline": "2026-11-09",
+      "description": "The positionThe Norwegian College of Fishery Science (NCFS) at the Faculty of Biosciences, Fisheries and Economics (BFE) is searching for a PhD Fellow to study the molecular ecology of fishes and other communities in the Artic Ocean as a contribution to the national flagship project Arctic Ocean...",
+      "url": "https://euraxess.ec.europa.eu/jobs/474271",
       "source": "euraxess"
     }
   ]
