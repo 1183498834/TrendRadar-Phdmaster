@@ -1,17 +1,29 @@
 {
-  "crawled_at": "2026-10-21",
-  "count": 1,
+  "crawled_at": "2026-10-30",
+  "count": 2,
   "jobs": [
     {
-      "id": "474271",
-      "title": "PhD Fellow in Marine Molecular Ecology",
-      "employer": "UiT The Arctic University of Norway",
-      "country": "Norway",
+      "id": "476291",
+      "title": "Employment as a doctoral student in Computer Science",
+      "employer": "Malmö University",
+      "country": "Sweden",
       "city": null,
-      "posted_date": "2026-10-20",
-      "deadline": "2026-11-09",
-      "description": "The positionThe Norwegian College of Fishery Science (NCFS) at the Faculty of Biosciences, Fisheries and Economics (BFE) is searching for a PhD Fellow to study the molecular ecology of fishes and other communities in the Artic Ocean as a contribution to the national flagship project Arctic Ocean...",
-      "url": "https://euraxess.ec.europa.eu/jobs/474271",
+      "posted_date": "2026-10-30",
+      "deadline": "2026-11-20",
+      "description": "Malmö University is an innovative, urban, and internationally-oriented academic institution that, thanks to its committed and experienced staff, contributes to societal development. Here, teachers, researchers, and other employees with various competencies work together to conduct high-quality...",
+      "url": "https://euraxess.ec.europa.eu/jobs/476291",
+      "source": "euraxess"
+    },
+    {
+      "id": "476292",
+      "title": "Employment as Doctoral student in Computer Science",
+      "employer": "Malmö University",
+      "country": "Sweden",
+      "city": null,
+      "posted_date": "2026-10-30",
+      "deadline": "2026-11-20",
+      "description": "Malmö University is an innovative, urban, and internationally-oriented academic institution that, thanks to its committed and experienced staff, contributes to societal development. Here, teachers, researchers, and other employees with various competencies work together to conduct high-quality...",
+      "url": "https://euraxess.ec.europa.eu/jobs/476292",
       "source": "euraxess"
     }
   ]
