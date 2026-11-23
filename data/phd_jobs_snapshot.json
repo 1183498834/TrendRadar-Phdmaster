@@ -1,53 +1,17 @@
 {
-  "crawled_at": "2026-11-22",
-  "count": 4,
+  "crawled_at": "2026-11-23",
+  "count": 1,
   "jobs": [
     {
-      "id": "482069",
-      "title": "PhD position: Repel or attract? Switchable stickiness for chipmaking",
-      "employer": "AcademicTransfer",
-      "country": "Netherlands",
+      "id": "482230",
+      "title": "PhD student in animal welfare and cognition - time perception in animals",
+      "employer": "Talentech",
+      "country": "Sweden",
       "city": null,
-      "posted_date": "2026-11-21",
-      "deadline": "2027-05-19",
-      "description": "Work ActivitiesCan a mechanical interface remember how sticky it should be?Friction is essential whenever surfaces must move, grip or remain precisely in place. Yet friction is usually determined by the materials and structure of an interface and cannot easily be changed once that interface has been...",
-      "url": "https://euraxess.ec.europa.eu/jobs/482069",
-      "source": "euraxess"
-    },
-    {
-      "id": "482071",
-      "title": "Postdoctoral Researcher: Leadership, AI and the Future of Work",
-      "employer": "AcademicTransfer",
-      "country": "Netherlands",
-      "city": null,
-      "posted_date": "2026-11-21",
-      "deadline": "2027-01-05",
-      "description": "Across sectors, organizations are investing heavily in AI and digital technologies. Yet technological change does not automatically lead to better work, better learning, or better organizational outcomes. Whether technology augments or constrains employees often depends on how workers and leaders...",
-      "url": "https://euraxess.ec.europa.eu/jobs/482071",
-      "source": "euraxess"
-    },
-    {
-      "id": "482073",
-      "title": "Postdoc/researcher (m/f/x)",
-      "employer": "AcademicTransfer",
-      "country": "Netherlands",
-      "city": null,
-      "posted_date": "2026-11-21",
-      "deadline": "2027-02-01",
-      "description": "Centrum Wiskunde & Informatica (CWI) has a vacancy in the Stochastics research group for a talented on the subject of Adaptive Rare-Event Simulation for Power Grids (UTOPYS)Make blackouts less rare: develop adaptive rare-event simulation methods on UTOPYS, a new national facility for real-time power...",
-      "url": "https://euraxess.ec.europa.eu/jobs/482073",
-      "source": "euraxess"
-    },
-    {
-      "id": "482075",
-      "title": "Postdoc in Fundamentals of hydration reactions in cement-ferrous slag systems - experimental studies",
-      "employer": "AcademicTransfer",
-      "country": "Netherlands",
-      "city": null,
-      "posted_date": "2026-11-21",
-      "deadline": "2026-12-19",
-      "description": "Do you want to be part of the transition to fossil-free steelmaking and find a sustainable application for the millions of tons of co-produced slags each year? For this 2yr position we seek a postdoc to work on the interaction of slag and cement who is motivated to discover the key parameters for...",
-      "url": "https://euraxess.ec.europa.eu/jobs/482075",
+      "posted_date": "2026-11-23",
+      "deadline": "2026-12-07",
+      "description": "Department of Applied Animal Science and Welfare Third-cycle subject area Animal Science Description of the doctoral project Animal welfare is ultimately determined by the animal’s own subjective experience. Nevertheless, time in animal welfare assessments is generally treated as clock time: minutes...",
+      "url": "https://euraxess.ec.europa.eu/jobs/482230",
       "source": "euraxess"
     }
   ]
