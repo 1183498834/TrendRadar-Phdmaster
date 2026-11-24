@@ -1,17 +1,41 @@
 {
-  "crawled_at": "2026-11-23",
-  "count": 1,
+  "crawled_at": "2026-11-24",
+  "count": 3,
   "jobs": [
     {
-      "id": "482230",
-      "title": "PhD student in animal welfare and cognition - time perception in animals",
+      "id": "482419",
+      "title": "PhD Student in Automatic Control with focus on sensor informatics",
       "employer": "Talentech",
       "country": "Sweden",
       "city": null,
-      "posted_date": "2026-11-23",
-      "deadline": "2026-12-07",
-      "description": "Department of Applied Animal Science and Welfare Third-cycle subject area Animal Science Description of the doctoral project Animal welfare is ultimately determined by the animal’s own subjective experience. Nevertheless, time in animal welfare assessments is generally treated as clock time: minutes...",
-      "url": "https://euraxess.ec.europa.eu/jobs/482230",
+      "posted_date": "2026-11-24",
+      "deadline": "2026-12-14",
+      "description": "We have the power of over 50,000 students and co-workers. Students who provide hope for the future. Co-workers who contribute to Linköping University meeting challenges of today. Our fundamental values rest on credibility, trust and security. By having the courage to think freely and innovate, our...",
+      "url": "https://euraxess.ec.europa.eu/jobs/482419",
+      "source": "euraxess"
+    },
+    {
+      "id": "482420",
+      "title": "PhD position in forest pathology",
+      "employer": "Talentech",
+      "country": "Sweden",
+      "city": null,
+      "posted_date": "2026-11-24",
+      "deadline": "2026-12-08",
+      "description": "Southern Swedish Forest Research Centre Third-cycle subject area Forest Management Description of the doctoral project Douglas-fir is a promising alternative for diversifying Swedish production forests under a changing climate. Its wider use requires better knowledge of needle diseases that can...",
+      "url": "https://euraxess.ec.europa.eu/jobs/482420",
+      "source": "euraxess"
+    },
+    {
+      "id": "482421",
+      "title": "Postdoctor in clinical epidemiology, with focus on IBD and celiac disease",
+      "employer": "Talentech",
+      "country": "Sweden",
+      "city": null,
+      "posted_date": "2026-11-24",
+      "deadline": "2026-12-22",
+      "description": "The University of Gothenburg tackles society’s challenges with diverse knowledge. 58 000 students and 6800 employees make the university a large and inspiring place to work and study. Strong research and attractive study programmes attract researchers and students from around the world. With new...",
+      "url": "https://euraxess.ec.europa.eu/jobs/482421",
       "source": "euraxess"
     }
   ]
