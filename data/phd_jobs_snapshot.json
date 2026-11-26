@@ -1,29 +1,29 @@
 {
-  "crawled_at": "2026-11-25",
+  "crawled_at": "2026-11-26",
   "count": 2,
   "jobs": [
     {
-      "id": "482863",
-      "title": "Researcher / Postdoctoral Fellow in Microbial Ecology",
-      "employer": "universitypositions",
-      "country": "Norway",
+      "id": "483013",
+      "title": "PhD Student in Applied Geophysics",
+      "employer": "Lulea University of Technology",
+      "country": "Sweden",
       "city": null,
-      "posted_date": "2026-11-25",
-      "deadline": "2026-12-18",
-      "description": "About the positionDo you want to take a leading role in turning a proven microbial concept into a scalable climate solution? At the Faculty of Chemistry, Biotechnology and Food Science, NMBU, we offer a three-year researcher/postdoc position in microbial ecology, starting in early 2027.Agricultural...",
-      "url": "https://euraxess.ec.europa.eu/jobs/482863",
+      "posted_date": "2026-11-26",
+      "deadline": "2027-01-31",
+      "description": "Are you ready to take the next step in your academic journey? As a doctoral student with us, you will work closely with leading researchers in a strong, international research environment, with access to advanced laboratory equipment and solid funding opportunities. You will be offered secure...",
+      "url": "https://euraxess.ec.europa.eu/jobs/483013",
       "source": "euraxess"
     },
     {
-      "id": "482855",
-      "title": "Postdoctoral Fellows and PhD Students - Genome Stress and Cell State - Nussenzweig Group",
-      "employer": "Kræftens Bekæmpelse",
-      "country": "Denmark",
+      "id": "483014",
+      "title": "Employment as a doctoral student in History and History Didactics",
+      "employer": "Malmö University",
+      "country": "Sweden",
       "city": null,
-      "posted_date": "2026-11-25",
-      "deadline": "2027-01-02",
-      "description": "Multiple postdoctoral and PhD positions are available in the newly established Laboratory of Genome Stress and Cell State, led by André Nussenzweig, at the Danish Cancer Institute (DCI).Our laboratory investigates how cell state shapes cellular responses to genome stress, and how these responses...",
-      "url": "https://euraxess.ec.europa.eu/jobs/482855",
+      "posted_date": "2026-11-26",
+      "deadline": "2027-01-11",
+      "description": "Malmö University is an innovative, urban, and internationally-oriented academic institution that, thanks to its committed and experienced staff, contributes to societal development. Here, teachers, researchers, and other employees with various competencies work together to conduct high-quality...",
+      "url": "https://euraxess.ec.europa.eu/jobs/483014",
       "source": "euraxess"
     }
   ]
