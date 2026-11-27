@@ -1,29 +1,41 @@
 {
-  "crawled_at": "2026-11-26",
-  "count": 2,
+  "crawled_at": "2026-11-27",
+  "count": 3,
   "jobs": [
     {
-      "id": "483013",
-      "title": "PhD Student in Applied Geophysics",
-      "employer": "Lulea University of Technology",
+      "id": "483456",
+      "title": "Postdoc in photonic nanosystems",
+      "employer": "Academic Positions",
       "country": "Sweden",
       "city": null,
-      "posted_date": "2026-11-26",
-      "deadline": "2027-01-31",
-      "description": "Are you ready to take the next step in your academic journey? As a doctoral student with us, you will work closely with leading researchers in a strong, international research environment, with access to advanced laboratory equipment and solid funding opportunities. You will be offered secure...",
-      "url": "https://euraxess.ec.europa.eu/jobs/483013",
+      "posted_date": "2026-11-27",
+      "deadline": "2026-12-16",
+      "description": "Job descriptionThe Department of Micro and Nanosystems at KTH's School of Electrical Engineering invites applications for a postdoctoral position in photonic nanosystems. We are seeking applicants who wish to conduct advanced research in photonic nanostructures, sensors, and actuators. In this...",
+      "url": "https://euraxess.ec.europa.eu/jobs/483456",
       "source": "euraxess"
     },
     {
-      "id": "483014",
-      "title": "Employment as a doctoral student in History and History Didactics",
-      "employer": "Malmö University",
+      "id": "483457",
+      "title": "Postdoc in Information Theoretic Analysis of Machine Learning Methods",
+      "employer": "Academic Positions",
       "country": "Sweden",
       "city": null,
-      "posted_date": "2026-11-26",
-      "deadline": "2027-01-11",
-      "description": "Malmö University is an innovative, urban, and internationally-oriented academic institution that, thanks to its committed and experienced staff, contributes to societal development. Here, teachers, researchers, and other employees with various competencies work together to conduct high-quality...",
-      "url": "https://euraxess.ec.europa.eu/jobs/483014",
+      "posted_date": "2026-11-27",
+      "deadline": "2026-12-16",
+      "description": "Job descriptionWe are seeking a postdoctoral researcher to strengthen our research environment and to contribute to fundamental research on the theoretical foundations of machine learning and decision-making. Your primary goal in this role will be to develop your research profile through both...",
+      "url": "https://euraxess.ec.europa.eu/jobs/483457",
+      "source": "euraxess"
+    },
+    {
+      "id": "483461",
+      "title": "Postdoc in Analysis, probability and mathematical physics",
+      "employer": "Academic Positions",
+      "country": "Sweden",
+      "city": null,
+      "posted_date": "2026-11-27",
+      "deadline": "2026-12-18",
+      "description": "Job descriptionA postdoctoral position is offered within the Random Matrices and Random Geometry research group in the KTH mathematics department. The projects will primarilyl take place under the supervision Prof. Fredrik Viklund and will involve the study of one or more of the following areas...",
+      "url": "https://euraxess.ec.europa.eu/jobs/483461",
       "source": "euraxess"
     }
   ]
